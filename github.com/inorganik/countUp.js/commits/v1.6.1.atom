@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/v1.6.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/v1.6.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/v1.6.1.atom"/>
+  <title>Recent Commits to countUp.js:v1.6.1</title>
+  <updated>2016-01-25T18:11:49Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/680fc7c52cda7c5931362662ff9b80fc4530b137</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/680fc7c52cda7c5931362662ff9b80fc4530b137"/>
+    <title>
+        Merge pull request #104 from jgranstrom/angular-filter-support
+    </title>
+    <updated>2016-01-25T18:11:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #104 from jgranstrom/angular-filter-support
+
+Angular filter support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/22532b9ff1607c0c7cb4af62e6e903558eb7ba70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/22532b9ff1607c0c7cb4af62e6e903558eb7ba70"/>
+    <title>
+        Build for angular filter support
+    </title>
+    <updated>2016-01-23T09:54:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build for angular filter support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/da0e28fdbfa5e65c023055232855b5f2e671cfc7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/da0e28fdbfa5e65c023055232855b5f2e671cfc7"/>
+    <title>
+        Added support for passing filter expression to angular-countup passed…
+    </title>
+    <updated>2016-01-23T09:51:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added support for passing filter expression to angular-countup passed as postFormatter
+
+Follows usual angular syntax ‘filter_name[:parameter_value] …’&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a4b85b7333bdc9c09a679b1c873cecc7332c91af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a4b85b7333bdc9c09a679b1c873cecc7332c91af"/>
+    <title>
+        Added support for post formatter function in countUp.js
+    </title>
+    <updated>2016-01-23T09:43:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added support for post formatter function in countUp.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99a27f3547d70d8940897a336c569e094285a7da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/99a27f3547d70d8940897a336c569e094285a7da"/>
+    <title>
+        update package name to reflect where I am able to publish on npm
+    </title>
+    <updated>2016-01-08T23:45:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update package name to reflect where I am able to publish on npm&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/118e74c9f46ec104f91988da197ce0f3244e8681</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/118e74c9f46ec104f91988da197ce0f3244e8681"/>
+    <title>
+        update license and version number, separate countUp.js from angular m…
+    </title>
+    <updated>2016-01-08T23:38:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update license and version number, separate countUp.js from angular module&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/089ff30fe0946b09a36c74eb2475722d72e49572</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/089ff30fe0946b09a36c74eb2475722d72e49572"/>
+    <title>
+        Merge pull request #100 from anoakie/master
+    </title>
+    <updated>2016-01-08T17:53:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #100 from anoakie/master
+
+Fix counting for small ranges (improve duration accuracy)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3931f3b52edb7eaab6b91d99f01554b4aec04c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/b3931f3b52edb7eaab6b91d99f01554b4aec04c3"/>
+    <title>
+        Fix counting for small ranges
+    </title>
+    <updated>2016-01-07T20:32:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/3025e5cb23fabc88db0dbbd15dafb721?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>aturner@darkpact.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix counting for small ranges
+
+When using a large duration and a small endVal, if you&amp;#39;re using round() it will roll over before the end of the duration.  By using floor(), we&amp;#39;re able to ensure that the final digit rolls over at the end of the duration.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6d614a75bcba60cefc984549e3a4348ab557499</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d6d614a75bcba60cefc984549e3a4348ab557499"/>
+    <title>
+        Merge pull request #96 from Vivihung/ngfixcheckin
+    </title>
+    <updated>2015-12-03T01:02:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #96 from Vivihung/ngfixcheckin
+
+angular-countUp: support data binding in directive attrs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b313f0bcd0596f106f69568f5383fb006f26ee9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/8b313f0bcd0596f106f69568f5383fb006f26ee9"/>
+    <title>
+        support data binding in directive attrs
+    </title>
+    <updated>2015-12-03T00:30:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/4814277?s=30&amp;v=4"/>
+    <author>
+      <name>Vivihung</name>
+      <uri>https://github.com/Vivihung</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;support data binding in directive attrs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7179e31e027de42b38239279da0d3335cf39983a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/7179e31e027de42b38239279da0d3335cf39983a"/>
+    <title>
+        update README
+    </title>
+    <updated>2015-11-25T16:22:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c1b0e2d9fae6606825b89662349cb88b864bbac1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/c1b0e2d9fae6606825b89662349cb88b864bbac1"/>
+    <title>
+        Update README
+    </title>
+    <updated>2015-11-25T16:07:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7cc4f5904a76ec08dfd2bd50855e31ef1df538c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/7cc4f5904a76ec08dfd2bd50855e31ef1df538c8"/>
+    <title>
+        Run gulp and update README for Vivien Hung&#39;s commit
+    </title>
+    <updated>2015-11-25T16:02:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Run gulp and update README for Vivien Hung&amp;#39;s commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ec81a001b820cad63bf7de1a2a5c89a0270d0c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5ec81a001b820cad63bf7de1a2a5c89a0270d0c2"/>
+    <title>
+        Merge pull request #94 from Vivihung/vivi_angularIdFix
+    </title>
+    <updated>2015-11-25T15:49:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #94 from Vivihung/vivi_angularIdFix
+
+Make id atttribute optional for angular directive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b8117529c8a7888fd027550e2879eaddd4ba9ef4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/b8117529c8a7888fd027550e2879eaddd4ba9ef4"/>
+    <title>
+        Remove id attribute to make count-up directive can be used as a child…
+    </title>
+    <updated>2015-11-24T21:23:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/4814277?s=30&amp;v=4"/>
+    <author>
+      <name>Vivihung</name>
+      <uri>https://github.com/Vivihung</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove id attribute to make count-up directive can be used as a child directive with any directive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/477c604ab78ac65f1cd17ac7eeaec9a1bc8904d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/477c604ab78ac65f1cd17ac7eeaec9a1bc8904d4"/>
+    <title>
+        Merge pull request #91 from takfjt/feature/license
+    </title>
+    <updated>2015-11-04T14:56:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #91 from takfjt/feature/license
+
+fix license&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2cb3bef031334dfa0316c722ae1d586d60860e6c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/2cb3bef031334dfa0316c722ae1d586d60860e6c"/>
+    <title>
+        fix license
+    </title>
+    <updated>2015-11-04T14:05:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/776011?s=30&amp;v=4"/>
+    <author>
+      <name>takfjt</name>
+      <uri>https://github.com/takfjt</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix license&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85ac5ac4e2076c088ff1e0a74774d47cf28ed547</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/85ac5ac4e2076c088ff1e0a74774d47cf28ed547"/>
+    <title>
+        Include link to wordpress plugin in readme
+    </title>
+    <updated>2015-10-10T13:47:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Include link to wordpress plugin in readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bcee1aa8628d961ff8dc56addd5c26b183869d6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/0bcee1aa8628d961ff8dc56addd5c26b183869d6"/>
+    <title>
+        merging @mikaelgson&#39;s PR to support tspans
+    </title>
+    <updated>2015-10-08T19:53:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;merging @mikaelgson&amp;#39;s PR to support tspans&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37d65bf881761a5816f9168dd18c5a9d81fed95e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/37d65bf881761a5816f9168dd18c5a9d81fed95e"/>
+    <title>
+        remove extra minified file
+    </title>
+    <updated>2015-10-05T14:44:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove extra minified file&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

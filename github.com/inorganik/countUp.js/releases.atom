@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/inorganik/countUp.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/releases.atom"/>
+  <title>Release notes from countUp.js</title>
+  <updated>2017-11-07T17:19:46Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.3</id>
+    <updated>2017-11-07T17:21:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.3"/>
+    <title>v1.9.3</title>
+    <content type="html">&lt;p&gt;Fixed a formatting issue where separators were added in front of large negative numbers.&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.2</id>
+    <updated>2017-09-08T14:52:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.2"/>
+    <title>v1.9.2</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Refactored formatNumber method to not use RegExp, thanks &lt;a class=&quot;user-mention&quot; data-hovercard-user-id=&quot;598037&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/mhseiden&quot;&gt;@mhseiden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moved demo js into separate file&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.1</id>
+    <updated>2017-08-24T18:37:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.1"/>
+    <title>v1.9.1</title>
+    <content type="html">&lt;p&gt;Fixed separator check bug (removed separator check)&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.0</id>
+    <updated>2017-09-08T14:54:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.0"/>
+    <title>v1.9.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Moved modules for &lt;a href=&quot;https://github.com/inorganik/countUp.js-angular1&quot;&gt;Angular 1x&lt;/a&gt; and &lt;a href=&quot;https://github.com/inorganik/countUp.js-angular2&quot;&gt;Angular ^2&lt;/a&gt; out of this repo and into their own repos.&lt;/li&gt;
+&lt;li&gt;Added support for different numeral systems, so for instance you can use Farsi numerals, thanks &lt;a class=&quot;user-mention&quot; data-hovercard-user-id=&quot;5509950&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/Pourbahrami&quot;&gt;@Pourbahrami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;error&lt;/code&gt; property, so you can check for errors before you call &lt;code&gt;start()&lt;/code&gt;. All calls to &lt;code&gt;console.error()&lt;/code&gt; removed.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.5</id>
+    <updated>2017-04-25T23:20:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.5"/>
+    <title>v1.8.5</title>
+    <content type="html">&lt;p&gt;Fixed an issue where calling update in callback would cause infinite rAF.&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.4</id>
+    <updated>2017-04-18T14:45:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.4"/>
+    <title>v1.8.4</title>
+    <content type="html">&lt;p&gt;Fixed an issue where grouping option was ignored.&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.3</id>
+    <updated>2017-03-16T16:06:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.3"/>
+    <title>v1.8.3</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;new initialize function checks for errors&lt;/li&gt;
+&lt;li&gt;some cleanup&lt;/li&gt;
+&lt;li&gt;removed changelog (this releases page serves as a changelog)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.2</id>
+    <updated>2017-03-02T15:58:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.2"/>
+    <title>v1.8.2</title>
+    <content type="html">&lt;p&gt;Includes a small fix for passing options.&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.1</id>
+    <updated>2016-12-28T21:22:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.1"/>
+    <title>v1.8.1</title>
+    <content type="html">&lt;p&gt;Angular 2 directive fix thanks &lt;a class=&quot;user-mention&quot; data-hovercard-user-id=&quot;5872403&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/vigie&quot;&gt;@vigie&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.0</id>
+    <updated>2016-12-12T16:32:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.0"/>
+    <title>v1.8.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Angular 2 support, thanks &lt;a class=&quot;user-mention&quot; data-hovercard-user-id=&quot;5872403&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/vigie&quot;&gt;@vigie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TypeScript definition file, thanks &lt;a class=&quot;user-mention&quot; data-hovercard-user-id=&quot;1675399&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/ThYpHo0n&quot;&gt;@ThYpHo0n&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+</feed>

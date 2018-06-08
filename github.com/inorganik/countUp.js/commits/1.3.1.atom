@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/1.3.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/1.3.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/1.3.1.atom"/>
+  <title>Recent Commits to countUp.js:1.3.1</title>
+  <updated>2014-09-01T15:27:41Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c560f6a56abad91910c4be567ace400b279d188</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1c560f6a56abad91910c4be567ace400b279d188"/>
+    <title>
+        v1.3.1
+    </title>
+    <updated>2014-09-01T15:27:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.3.1
+
+Fixed bug where if endVal = 0, countUp would display ‘—‘&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a11c425f172715d5612d261b00a12ca6a8b8d8b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a11c425f172715d5612d261b00a12ca6a8b8d8b2"/>
+    <title>
+        v1.3.0
+    </title>
+    <updated>2014-08-22T14:14:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.3.0
+
+Fixed bug where unload countUp animation could not be controlled by
+buttons&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5184ffcad501ef496904d7635eea128c4c8864e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e5184ffcad501ef496904d7635eea128c4c8864e"/>
+    <title>
+        v1.3.0
+    </title>
+    <updated>2014-08-22T03:24:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.3.0
+
+Adds support for inputs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ffd9f49b95a3a16eee15600c2cc6d5bf3d8f989e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ffd9f49b95a3a16eee15600c2cc6d5bf3d8f989e"/>
+    <title>
+        Merge pull request #45 from kmclaugh/master
+    </title>
+    <updated>2014-08-22T02:14:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #45 from kmclaugh/master
+
+Added support for input elements to the countUp object&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/27dd173d60a73de1cc962fc80416d34ada63acd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/27dd173d60a73de1cc962fc80416d34ada63acd8"/>
+    <title>
+        forkMe edit
+    </title>
+    <updated>2014-08-20T16:02:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;forkMe edit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9b8f94743bdd41acf09e1128c9ff889bd198a8a3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/9b8f94743bdd41acf09e1128c9ff889bd198a8a3"/>
+    <title>
+        Responsive
+    </title>
+    <updated>2014-08-20T15:52:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Responsive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8eb5bdeac160fe12ad78d5342c0b02fd986f1d77</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/8eb5bdeac160fe12ad78d5342c0b02fd986f1d77"/>
+    <title>
+        Merged with the main master. Merge added the prefix/suffix functional…
+    </title>
+    <updated>2014-08-06T22:21:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merged with the main master. Merge added the prefix/suffix functionality. I verified that the new feature works with the input element as well.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/74cd3d0699561ea60a275ebd27543d000f2dc3aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/74cd3d0699561ea60a275ebd27543d000f2dc3aa"/>
+    <title>
+        Fixed bug with reset and added initialization back
+    </title>
+    <updated>2014-08-06T22:00:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed bug with reset and added initialization back
+
+Both the input and standard html elements can now reset with out issue.
+Both the input and standard html elements are also initialized so
+starting values do not have to be hardcoded into the html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/566a3310ab6cde6de61f4d401399ecdea320396b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/566a3310ab6cde6de61f4d401399ecdea320396b"/>
+    <title>
+        Added is_error option back to formatPrint
+    </title>
+    <updated>2014-08-06T21:26:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added is_error option back to formatPrint&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19f464672c31faa92777b626856dcbb6b4dff10d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/19f464672c31faa92777b626856dcbb6b4dff10d"/>
+    <title>
+        Removed prefix suffix option
+    </title>
+    <updated>2014-08-06T21:19:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed prefix suffix option
+
+Somebody already added feature on the main branch&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/afd9f131f57650a6b8f104ae85ed1c884847cef5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/afd9f131f57650a6b8f104ae85ed1c884847cef5"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2014-08-05T20:18:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94556812e3bf002533a096e7ca82d5e2d276ece9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/94556812e3bf002533a096e7ca82d5e2d276ece9"/>
+    <title>
+        Delete countUp.coffee
+    </title>
+    <updated>2014-08-05T20:17:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete countUp.coffee
+
+Removing until it gets fixed...&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eddde67323679bc0eebe14428a2546fae9f66b4d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/eddde67323679bc0eebe14428a2546fae9f66b4d"/>
+    <title>
+        v1.2.0
+    </title>
+    <updated>2014-08-04T16:38:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.2.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c782968fc667bc58f24f37347766741e96a0229a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/c782968fc667bc58f24f37347766741e96a0229a"/>
+    <title>
+        v1.2.0
+    </title>
+    <updated>2014-08-04T16:37:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.2.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a91d3c8e28bdcaf4e89032cd01234c34aa07f7be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a91d3c8e28bdcaf4e89032cd01234c34aa07f7be"/>
+    <title>
+        v1.2.0
+    </title>
+    <updated>2014-08-04T16:36:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.2.0
+
+Adds prefixes and suffixes. Streamlined code merged from
+@marjan-georgiev a bit and incremented the version.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a259d67e930b90fef324377228ef482e37d2ff2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a259d67e930b90fef324377228ef482e37d2ff2b"/>
+    <title>
+        Revert &quot;Update README.md&quot;
+    </title>
+    <updated>2014-08-04T15:38:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Update README.md&amp;quot;
+
+This reverts commit 1e32d39a82045507efb7465ec3962d68852d9737.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2db8ad4ba06de4a32524fb72ffaa1543aea25e15</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/2db8ad4ba06de4a32524fb72ffaa1543aea25e15"/>
+    <title>
+        Merge pull request #46 from marjan-georgiev/support-for-prefix-and-su…
+    </title>
+    <updated>2014-08-04T14:44:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #46 from marjan-georgiev/support-for-prefix-and-suffix
+
+Add support for prefix and suffix text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad669b2fa1cc9c826f30b8ec48dbdf035389a397</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ad669b2fa1cc9c826f30b8ec48dbdf035389a397"/>
+    <title>
+        Add support for prefix and suffix text
+    </title>
+    <updated>2014-08-01T20:58:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/8687?s=30&amp;v=4"/>
+    <author>
+      <name>marjan-georgiev</name>
+      <uri>https://github.com/marjan-georgiev</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add support for prefix and suffix text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a4d5ba48319045f8832167013e2bb14232a20da8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a4d5ba48319045f8832167013e2bb14232a20da8"/>
+    <title>
+        Added Prefix and Suffix Options
+    </title>
+    <updated>2014-08-01T19:09:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added Prefix and Suffix Options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4361319802aa09d1c2cc0a5101aaffdcb24aab36</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/4361319802aa09d1c2cc0a5101aaffdcb24aab36"/>
+    <title>
+        Added is_error option to formatPrint
+    </title>
+    <updated>2014-07-23T20:27:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1631266?s=30&amp;v=4"/>
+    <author>
+      <name>kmclaugh</name>
+      <uri>https://github.com/kmclaugh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added is_error option to formatPrint
+
+Added is_error option to formatPrint to write &amp;#39;--&amp;#39; to the target element
+(either html element or input).
+
+Changed  formatPrint in countUp error to is_error=true.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

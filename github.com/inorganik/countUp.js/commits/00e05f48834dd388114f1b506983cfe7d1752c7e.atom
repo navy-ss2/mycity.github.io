@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/00e05f48834dd388114f1b506983cfe7d1752c7e</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/00e05f48834dd388114f1b506983cfe7d1752c7e"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/00e05f48834dd388114f1b506983cfe7d1752c7e.atom"/>
+  <title>Recent Commits to countUp.js:00e05f48834dd388114f1b506983cfe7d1752c7e</title>
+  <updated>2015-06-10T18:11:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/00e05f48834dd388114f1b506983cfe7d1752c7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/00e05f48834dd388114f1b506983cfe7d1752c7e"/>
+    <title>
+        initial commit
+    </title>
+    <updated>2015-06-10T18:11:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;initial commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf3213a665d9d259c7a098665d1c8196d626be35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/bf3213a665d9d259c7a098665d1c8196d626be35"/>
+    <title>
+        tidy markdown
+    </title>
+    <updated>2015-06-10T18:11:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;tidy markdown&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac6b51fc3595563385dbedd1cad4875866f479db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ac6b51fc3595563385dbedd1cad4875866f479db"/>
+    <title>
+        Fix demo link in README
+    </title>
+    <updated>2015-06-10T17:55:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix demo link in README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f9411aead8acd997c16568205e86beb5c99584f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/2f9411aead8acd997c16568205e86beb5c99584f"/>
+    <title>
+        Some small improvements that clean up the code a little
+    </title>
+    <updated>2015-06-10T17:47:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Some small improvements that clean up the code a little&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/40fcd0bcf6772c37defa36be2d9f53523d1f8014</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/40fcd0bcf6772c37defa36be2d9f53523d1f8014"/>
+    <title>
+        Restore gh-pages 2
+    </title>
+    <updated>2015-05-18T17:52:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Restore gh-pages 2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef977b18d3d93477a3b7bad4583e431dc9ad7306</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ef977b18d3d93477a3b7bad4583e431dc9ad7306"/>
+    <title>
+        Merge remote-tracking branch &#39;origin/gh-pages&#39; into gh-pages
+    </title>
+    <updated>2015-05-18T17:48:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;origin/gh-pages&amp;#39; into gh-pages&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7383ba6bafa3e41b9c4c4225a26e4cf0e5f1e5aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/7383ba6bafa3e41b9c4c4225a26e4cf0e5f1e5aa"/>
+    <title>
+        Restore gh-pages
+    </title>
+    <updated>2015-05-18T17:48:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Restore gh-pages&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e2e6d41dedbc5d330b1b7c6afcf9f17ebcb090e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1e2e6d41dedbc5d330b1b7c6afcf9f17ebcb090e"/>
+    <title>
+        commit
+    </title>
+    <updated>2015-05-18T17:34:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;commit
+
+commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd0e01a22b725b09386feac1613024e1d5bb4478</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/dd0e01a22b725b09386feac1613024e1d5bb4478"/>
+    <title>
+        merge master into gh-pages
+    </title>
+    <updated>2015-05-18T16:27:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;merge master into gh-pages&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9416b79c7efa3ab0c0fbc90c9be3d124c6376ebe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/9416b79c7efa3ab0c0fbc90c9be3d124c6376ebe"/>
+    <title>
+        Update changelog, version number, minified file for v1.5
+    </title>
+    <updated>2015-05-18T15:56:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update changelog, version number, minified file for v1.5&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c468124995860e4ab7c2f82657d5c561ff5e0f51</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/c468124995860e4ab7c2f82657d5c561ff5e0f51"/>
+    <title>
+        Merge pull request #71 from vash15/master
+    </title>
+    <updated>2015-05-18T15:49:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #71 from vash15/master
+
+Support AMD&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6bb93e31c3118b7fed3c1a7ee71b58047790e2b3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6bb93e31c3118b7fed3c1a7ee71b58047790e2b3"/>
+    <title>
+        Remove global in Node.JS environment or AMD environment.
+    </title>
+    <updated>2015-05-11T13:47:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/132197?s=30&amp;v=4"/>
+    <author>
+      <name>vash15</name>
+      <uri>https://github.com/vash15</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove global in Node.JS environment or AMD environment.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5470aeb5e925ab39da4d67a08a4fda297e297653</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5470aeb5e925ab39da4d67a08a4fda297e297653"/>
+    <title>
+        fix
+    </title>
+    <updated>2015-05-08T16:16:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bdb9fd670cf1729a97c9a9f125b1955a4c7d4da3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/bdb9fd670cf1729a97c9a9f125b1955a4c7d4da3"/>
+    <title>
+        merge from master
+    </title>
+    <updated>2015-05-08T16:15:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;merge from master&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4967c60aa09973cbe46425adb641890cf807b58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/f4967c60aa09973cbe46425adb641890cf807b58"/>
+    <title>
+        Small fix script link
+    </title>
+    <updated>2015-05-08T16:04:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Small fix script link&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1aadafcc842766dd93f676196eae03ebac5ee9e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1aadafcc842766dd93f676196eae03ebac5ee9e2"/>
+    <title>
+        Revert &quot;Complete name change from countUp to CountUp&quot;
+    </title>
+    <updated>2015-05-08T16:01:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Complete name change from countUp to CountUp&amp;quot;
+
+This reverts commit 1e3bc52e340d7882b3cb82e965763c4290afd607.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e3bc52e340d7882b3cb82e965763c4290afd607</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1e3bc52e340d7882b3cb82e965763c4290afd607"/>
+    <title>
+        Complete name change from countUp to CountUp
+    </title>
+    <updated>2015-05-08T15:59:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Complete name change from countUp to CountUp&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/64965c25bcbc53da4aa7c561e543af712e43c8c0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/64965c25bcbc53da4aa7c561e543af712e43c8c0"/>
+    <title>
+        Merge branch &#39;master&#39; into gh-pages
+    </title>
+    <updated>2015-05-08T15:53:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into gh-pages
+
+Conflicts:
+	countUp.min.js
+	index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/49a3a7f291a93d396cdbcb8535ecc752fb766bc7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/49a3a7f291a93d396cdbcb8535ecc752fb766bc7"/>
+    <title>
+        v1.4.0
+    </title>
+    <updated>2015-05-08T15:52:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.4.0
+
+- Change class name from &amp;quot;countUp&amp;quot; to &amp;quot;CountUp&amp;quot;
+- Add pauseResume() method
+- Deprecate stop() and resume() methods
+- Add documentation for update()
+- Slight tweaks to update()&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd9885d03a2ecd538804fc30b241f2ae208dc5b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/dd9885d03a2ecd538804fc30b241f2ae208dc5b6"/>
+    <title>
+        Merge pull request #70 from aludvigsen/master
+    </title>
+    <updated>2015-05-08T14:58:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #70 from aludvigsen/master
+
+Documentation and demo for update() func&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

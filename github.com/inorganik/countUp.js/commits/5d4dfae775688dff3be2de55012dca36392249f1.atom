@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/5d4dfae775688dff3be2de55012dca36392249f1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/5d4dfae775688dff3be2de55012dca36392249f1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/5d4dfae775688dff3be2de55012dca36392249f1.atom"/>
+  <title>Recent Commits to countUp.js:5d4dfae775688dff3be2de55012dca36392249f1</title>
+  <updated>2017-09-08T14:50:44Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5d4dfae775688dff3be2de55012dca36392249f1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5d4dfae775688dff3be2de55012dca36392249f1"/>
+    <title>
+        increment version, move demo js into separate file
+    </title>
+    <updated>2017-09-08T14:50:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;increment version, move demo js into separate file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/43b3b5069c870e7ab904ca0f422f5bcd54730b37</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/43b3b5069c870e7ab904ca0f422f5bcd54730b37"/>
+    <title>
+        Merge pull request #185 from mhseiden/max/fix_num_sep
+    </title>
+    <updated>2017-09-08T14:29:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #185 from mhseiden/max/fix_num_sep
+
+refactor formatNumber function&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/041ef767cbb9ef026b867fd269e351eabc80a8d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/041ef767cbb9ef026b867fd269e351eabc80a8d7"/>
+    <title>
+        rebuild &#39;dist&#39;
+    </title>
+    <updated>2017-09-08T00:58:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/2ec3f16db04abecb0c9db341b563cf88?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>max@sigmacomputing.io</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;rebuild &amp;#39;dist&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/981451f0383bb4d6baf8a714b34005216193dacf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/981451f0383bb4d6baf8a714b34005216193dacf"/>
+    <title>
+        The separator injection logic did not handle numeric inputs; now it does
+    </title>
+    <updated>2017-09-08T00:49:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/2ec3f16db04abecb0c9db341b563cf88?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>max@sigmacomputing.io</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;The separator injection logic did not handle numeric inputs; now it does&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6fd5d4ecb99944364ccf663124ebf77c9cfe6fa8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6fd5d4ecb99944364ccf663124ebf77c9cfe6fa8"/>
+    <title>
+        fixed separator check bug (removed separator check)
+    </title>
+    <updated>2017-08-24T18:36:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed separator check bug (removed separator check)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6eb3487721d8df8d477beaa9758adf4deab61384</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6eb3487721d8df8d477beaa9758adf4deab61384"/>
+    <title>
+        stray comma in package.json
+    </title>
+    <updated>2017-08-23T23:08:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;stray comma in package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0f3c867c676d36f05c7a8cc7e6a24d6c7aaa3410</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/0f3c867c676d36f05c7a8cc7e6a24d6c7aaa3410"/>
+    <title>
+        remove tsconfig file
+    </title>
+    <updated>2017-08-23T23:02:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove tsconfig file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e789bbc5b565f301f739874af4a0210665f70426</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e789bbc5b565f301f739874af4a0210665f70426"/>
+    <title>
+        moving angular 1 and 2 modules out of this repo and into their own repos
+    </title>
+    <updated>2017-08-23T23:00:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;moving angular 1 and 2 modules out of this repo and into their own repos&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d98035a6b9fbd152561d57252661de3f30cb51be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d98035a6b9fbd152561d57252661de3f30cb51be"/>
+    <title>
+        adding option for numeral substitution and error property
+    </title>
+    <updated>2017-08-23T20:47:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;adding option for numeral substitution and error property&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/156dc7dcfef3c882171cd80bd37abcec7da32afe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/156dc7dcfef3c882171cd80bd37abcec7da32afe"/>
+    <title>
+        Merge pull request #182 from Pourbahrami/master
+    </title>
+    <updated>2017-08-22T20:37:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #182 from Pourbahrami/master
+
+Add Arabic &amp;amp; Farsi Digits Output to Options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e45da9502ac50db744a72b5e34ffd0ba5a319cf6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e45da9502ac50db744a72b5e34ffd0ba5a319cf6"/>
+    <title>
+        Add Arabic &amp; Farsi Digits Output to Options
+    </title>
+    <updated>2017-08-20T08:27:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5509950?s=30&amp;v=4"/>
+    <author>
+      <name>Pourbahrami</name>
+      <uri>https://github.com/Pourbahrami</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Arabic &amp;amp; Farsi Digits Output to Options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2eb10313e1c65c361214e9f5c3dfda3be8506917</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/2eb10313e1c65c361214e9f5c3dfda3be8506917"/>
+    <title>
+        Add Arabic &amp; Farsi Digits Output to Options
+    </title>
+    <updated>2017-08-20T08:26:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5509950?s=30&amp;v=4"/>
+    <author>
+      <name>Pourbahrami</name>
+      <uri>https://github.com/Pourbahrami</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Arabic &amp;amp; Farsi Digits Output to Options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/81f1a8ef4fc15b36b4f768ef451ecea370149434</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/81f1a8ef4fc15b36b4f768ef451ecea370149434"/>
+    <title>
+        Add Arabic &amp; Farsi Digits Output to Options
+    </title>
+    <updated>2017-08-19T10:31:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5509950?s=30&amp;v=4"/>
+    <author>
+      <name>Pourbahrami</name>
+      <uri>https://github.com/Pourbahrami</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Arabic &amp;amp; Farsi Digits Output to Options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7934889b741962ccb39a0bab77f0129896bde640</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/7934889b741962ccb39a0bab77f0129896bde640"/>
+    <title>
+        Merge pull request #171 from glennreyes/react-usage
+    </title>
+    <updated>2017-06-17T21:26:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #171 from glennreyes/react-usage
+
+Adding link to @glennreyes countup react wrapper repo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8831ce65ccd47732dfc4d5d41d90fadeb4989306</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/8831ce65ccd47732dfc4d5d41d90fadeb4989306"/>
+    <title>
+        Adjust React order in docs
+    </title>
+    <updated>2017-06-17T07:12:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5080854?s=30&amp;v=4"/>
+    <author>
+      <name>glennreyes</name>
+      <uri>https://github.com/glennreyes</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adjust React order in docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac8a0b804fe49dab78773097fd761187431236bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ac8a0b804fe49dab78773097fd761187431236bc"/>
+    <title>
+        Add docs for using with React
+    </title>
+    <updated>2017-06-16T11:40:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5080854?s=30&amp;v=4"/>
+    <author>
+      <name>glennreyes</name>
+      <uri>https://github.com/glennreyes</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add docs for using with React&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2b43e687abc6b7b023478a98610b4ae8b5618f5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d2b43e687abc6b7b023478a98610b4ae8b5618f5"/>
+    <title>
+        Merge pull request #167 from yesenarman/master
+    </title>
+    <updated>2017-05-08T20:11:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #167 from yesenarman/master
+
+Move number check further up in update()&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a51f7d2804b5c52de2c22a7102db2c811d5a435d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a51f7d2804b5c52de2c22a7102db2c811d5a435d"/>
+    <title>
+        Add a check in update() to ensure that newEndVal parameter is a number
+    </title>
+    <updated>2017-05-08T18:14:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1057018?s=30&amp;v=4"/>
+    <author>
+      <name>yesenarman</name>
+      <uri>https://github.com/yesenarman</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a check in update() to ensure that newEndVal parameter is a number&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0d01c91ea384bd9d486ab969883b6331d8e56d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a0d01c91ea384bd9d486ab969883b6331d8e56d8"/>
+    <title>
+        Merge pull request #166 from yesenarman/patch-1
+    </title>
+    <updated>2017-05-06T13:40:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #166 from yesenarman/patch-1
+
+Add a missing &amp;#39;decimals&amp;#39; argument in one of the examples&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3d1f80e01f5028cfc3c942baa3db532ff999bb1a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/3d1f80e01f5028cfc3c942baa3db532ff999bb1a"/>
+    <title>
+        Add a missing &#39;decimals&#39; argument in one of the examples
+    </title>
+    <updated>2017-05-06T13:25:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1057018?s=30&amp;v=4"/>
+    <author>
+      <name>yesenarman</name>
+      <uri>https://github.com/yesenarman</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a missing &amp;#39;decimals&amp;#39; argument in one of the examples&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

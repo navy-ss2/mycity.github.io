@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/1.5.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/1.5.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/1.5.0.atom"/>
+  <title>Recent Commits to countUp.js:1.5.0</title>
+  <updated>2015-05-18T15:56:22Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9416b79c7efa3ab0c0fbc90c9be3d124c6376ebe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/9416b79c7efa3ab0c0fbc90c9be3d124c6376ebe"/>
+    <title>
+        Update changelog, version number, minified file for v1.5
+    </title>
+    <updated>2015-05-18T15:56:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update changelog, version number, minified file for v1.5&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c468124995860e4ab7c2f82657d5c561ff5e0f51</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/c468124995860e4ab7c2f82657d5c561ff5e0f51"/>
+    <title>
+        Merge pull request #71 from vash15/master
+    </title>
+    <updated>2015-05-18T15:49:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #71 from vash15/master
+
+Support AMD&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6bb93e31c3118b7fed3c1a7ee71b58047790e2b3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6bb93e31c3118b7fed3c1a7ee71b58047790e2b3"/>
+    <title>
+        Remove global in Node.JS environment or AMD environment.
+    </title>
+    <updated>2015-05-11T13:47:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/132197?s=30&amp;v=4"/>
+    <author>
+      <name>vash15</name>
+      <uri>https://github.com/vash15</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove global in Node.JS environment or AMD environment.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4967c60aa09973cbe46425adb641890cf807b58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/f4967c60aa09973cbe46425adb641890cf807b58"/>
+    <title>
+        Small fix script link
+    </title>
+    <updated>2015-05-08T16:04:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Small fix script link&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1aadafcc842766dd93f676196eae03ebac5ee9e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1aadafcc842766dd93f676196eae03ebac5ee9e2"/>
+    <title>
+        Revert &quot;Complete name change from countUp to CountUp&quot;
+    </title>
+    <updated>2015-05-08T16:01:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Complete name change from countUp to CountUp&amp;quot;
+
+This reverts commit 1e3bc52e340d7882b3cb82e965763c4290afd607.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e3bc52e340d7882b3cb82e965763c4290afd607</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1e3bc52e340d7882b3cb82e965763c4290afd607"/>
+    <title>
+        Complete name change from countUp to CountUp
+    </title>
+    <updated>2015-05-08T15:59:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Complete name change from countUp to CountUp&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/49a3a7f291a93d396cdbcb8535ecc752fb766bc7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/49a3a7f291a93d396cdbcb8535ecc752fb766bc7"/>
+    <title>
+        v1.4.0
+    </title>
+    <updated>2015-05-08T15:52:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.4.0
+
+- Change class name from &amp;quot;countUp&amp;quot; to &amp;quot;CountUp&amp;quot;
+- Add pauseResume() method
+- Deprecate stop() and resume() methods
+- Add documentation for update()
+- Slight tweaks to update()&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd9885d03a2ecd538804fc30b241f2ae208dc5b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/dd9885d03a2ecd538804fc30b241f2ae208dc5b6"/>
+    <title>
+        Merge pull request #70 from aludvigsen/master
+    </title>
+    <updated>2015-05-08T14:58:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #70 from aludvigsen/master
+
+Documentation and demo for update() func&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/48c721a98e7faa54c7d1d60f69da173d63348878</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/48c721a98e7faa54c7d1d60f69da173d63348878"/>
+    <title>
+        Merge pull request #63 from goddomotfronk/fix-options-object
+    </title>
+    <updated>2015-05-08T14:58:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #63 from goddomotfronk/fix-options-object
+
+Options object is extended with passed in options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c022597769611af2287031614a9c3dc7793d3d35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/c022597769611af2287031614a9c3dc7793d3d35"/>
+    <title>
+        Documentation and demo for update() func
+    </title>
+    <updated>2015-05-08T10:26:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5787399?s=30&amp;v=4"/>
+    <author>
+      <name>aludvigsen</name>
+      <uri>https://github.com/aludvigsen</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Documentation and demo for update() func&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/15cb62b46b55540a7c5da9a8227a603c3c353f34</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/15cb62b46b55540a7c5da9a8227a603c3c353f34"/>
+    <title>
+        v 1.3.3
+    </title>
+    <updated>2015-03-24T23:23:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v 1.3.3
+
+Updated version, changelog and minified file for @aludvigsen’s commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/220ac92b7c51c2fad9c1deb47a48cc7ae8b55ad9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/220ac92b7c51c2fad9c1deb47a48cc7ae8b55ad9"/>
+    <title>
+        Merge pull request #68 from aludvigsen/master
+    </title>
+    <updated>2015-03-24T23:07:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #68 from aludvigsen/master
+
+New method: update(num)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6e203b771c352e242691553a3065185e93ecfaa9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6e203b771c352e242691553a3065185e93ecfaa9"/>
+    <title>
+        New method: update(num)
+    </title>
+    <updated>2015-03-23T12:18:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5787399?s=30&amp;v=4"/>
+    <author>
+      <name>aludvigsen</name>
+      <uri>https://github.com/aludvigsen</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New method: update(num)
+
+Added possibility to update existing counter and animate to a new
+number, without the need to create a new instance.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b8713ccc5400a8ab5164dde1cb1762eb2582851c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/b8713ccc5400a8ab5164dde1cb1762eb2582851c"/>
+    <title>
+        Remove last comma from default options object
+    </title>
+    <updated>2015-03-05T15:46:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove last comma from default options object&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a223b757ab02212abb9b22f0d7909aef1b9f865</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5a223b757ab02212abb9b22f0d7909aef1b9f865"/>
+    <title>
+        Merge pull request #67 from mjrev/patch-1
+    </title>
+    <updated>2015-03-05T15:46:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #67 from mjrev/patch-1
+
+added missing commas in code demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6e2afaced9897f656919652e199a126e9671068f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/6e2afaced9897f656919652e199a126e9671068f"/>
+    <title>
+        added missing commas
+    </title>
+    <updated>2015-03-05T04:20:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/5c27f83da267a5e5edbcbb504e97dc1b?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>mjrev@users.noreply.github.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added missing commas&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1ceef9b618aab0e5e76573240e650a45fc4c16be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/1ceef9b618aab0e5e76573240e650a45fc4c16be"/>
+    <title>
+        fix options object
+    </title>
+    <updated>2015-01-27T15:39:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5709470?s=30&amp;v=4"/>
+    <author>
+      <name>goddomotfronk</name>
+      <uri>https://github.com/goddomotfronk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix options object
+
+Some properties of the default options object can become undefined if not present in the object passed when creating a new instance.
+An example: http://jsfiddle.net/vo4orwad/.
+Fixed by extending the default options object.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fde075a0185ed9ae6715ae60d3c6a66ed5a7e7c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/fde075a0185ed9ae6715ae60d3c6a66ed5a7e7c8"/>
+    <title>
+        Accomodate style changes
+    </title>
+    <updated>2014-12-10T22:59:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Accomodate style changes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ec0f5659e4ef38adb44dad2d0f66f5e15b0cbc7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/9ec0f5659e4ef38adb44dad2d0f66f5e15b0cbc7"/>
+    <title>
+        v1.3.2
+    </title>
+    <updated>2014-12-04T20:42:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.3.2
+
+Added abillity to count in svg text elements.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea3acef948372a4eced297a19059d3b23593eb5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ea3acef948372a4eced297a19059d3b23593eb5e"/>
+    <title>
+        Update demo to use current star count
+    </title>
+    <updated>2014-10-13T15:15:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update demo to use current star count&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

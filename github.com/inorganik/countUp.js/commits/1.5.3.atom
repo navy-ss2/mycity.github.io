@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/1.5.3</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/1.5.3"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/1.5.3.atom"/>
+  <title>Recent Commits to countUp.js:1.5.3</title>
+  <updated>2015-06-16T13:01:16Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d4ac8956c56c20159f92afb3da372e8cff25b4d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d4ac8956c56c20159f92afb3da372e8cff25b4d5"/>
+    <title>
+        Update version for new release
+    </title>
+    <updated>2015-06-16T13:01:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update version for new release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e56b0555cc263fff174e5b7217cac5dd4c67f6f8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e56b0555cc263fff174e5b7217cac5dd4c67f6f8"/>
+    <title>
+        fix bower path
+    </title>
+    <updated>2015-06-16T12:44:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix bower path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d72fe3e52cb5ad5fee5c366248b42c7c1cb5f75e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d72fe3e52cb5ad5fee5c366248b42c7c1cb5f75e"/>
+    <title>
+        fixed bower path
+    </title>
+    <updated>2015-06-16T12:43:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed bower path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fcecdea8becc51883d1670ef8b30d870d7ba3a66</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/fcecdea8becc51883d1670ef8b30d870d7ba3a66"/>
+    <title>
+        Merge branch &#39;mastermind1981-patch-2&#39;
+    </title>
+    <updated>2015-06-15T23:35:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;mastermind1981-patch-2&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/609ffdd254baf9b398302211e084f66c6cdd7f45</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/609ffdd254baf9b398302211e084f66c6cdd7f45"/>
+    <title>
+        Merge pull request #75 from kkirsche/patch-1
+    </title>
+    <updated>2015-06-15T23:32:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #75 from kkirsche/patch-1
+
+Remove moot `version` property from bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82786849a4c94de68ba48113785b9499da1dcea7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/82786849a4c94de68ba48113785b9499da1dcea7"/>
+    <title>
+        fixed the path of the dist file
+    </title>
+    <updated>2015-06-15T23:31:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/10873661?s=30&amp;v=4"/>
+    <author>
+      <name>mastermind1981</name>
+      <uri>https://github.com/mastermind1981</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed the path of the dist file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05c0d9f5d9240a3ad202e0a6e360172d17768a88</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/05c0d9f5d9240a3ad202e0a6e360172d17768a88"/>
+    <title>
+        Remove moot `version` property from bower.json
+    </title>
+    <updated>2015-06-12T00:47:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/947110?s=30&amp;v=4"/>
+    <author>
+      <name>kkirsche</name>
+      <uri>https://github.com/kkirsche</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove moot `version` property from bower.json
+
+Per bower/bower.json-spec@a325da3
+
+Also their maintainer says they probably won&amp;#39;t ever use it: http://stackoverflow.com/questions/24844901/bowers-bower-json-file-version-property&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b9a44ecd2fce834b7ab2913d92930aa0008cc2f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/b9a44ecd2fce834b7ab2913d92930aa0008cc2f7"/>
+    <title>
+        Merge pull request #74 from JamesHenry/patch-1
+    </title>
+    <updated>2015-06-11T16:44:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #74 from JamesHenry/patch-1
+
+Update bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/63f7cf307e96ab0a926d651620ab5b066ddf0e41</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/63f7cf307e96ab0a926d651620ab5b066ddf0e41"/>
+    <title>
+        Update bower.json
+    </title>
+    <updated>2015-06-11T16:42:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/900523?s=30&amp;v=4"/>
+    <author>
+      <name>JamesHenry</name>
+      <uri>https://github.com/JamesHenry</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update bower.json
+
+Added missing comma&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea736f568b6283ffa122a8ec9f2173811bb025f9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/ea736f568b6283ffa122a8ec9f2173811bb025f9"/>
+    <title>
+        Update version to 1.5.2
+    </title>
+    <updated>2015-06-11T14:22:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update version to 1.5.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb2f00035ecd07e5ab5e07f9041ceb520e6c11c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/eb2f00035ecd07e5ab5e07f9041ceb520e6c11c1"/>
+    <title>
+        Merge pull request #72 from hhsnopek/improvements
+    </title>
+    <updated>2015-06-11T13:48:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #72 from hhsnopek/improvements
+
+Incorporate new build system&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a32eb128b6b1887e8faef4006b4fc2c91f372d38</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a32eb128b6b1887e8faef4006b4fc2c91f372d38"/>
+    <title>
+        add license &amp; contributing
+    </title>
+    <updated>2015-06-11T12:09:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add license &amp;amp; contributing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fe9cfc91846afb428550406a13ad9481e4a6765c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/fe9cfc91846afb428550406a13ad9481e4a6765c"/>
+    <title>
+        update build
+    </title>
+    <updated>2015-06-11T12:08:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/45ae5a35fb17318b052cc58b55f6be1c8bcec5b0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/45ae5a35fb17318b052cc58b55f6be1c8bcec5b0"/>
+    <title>
+        remove return statement
+    </title>
+    <updated>2015-06-11T11:46:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove return statement&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8bc3a75f1be2bea5ed537d799397eb2495890f2a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/8bc3a75f1be2bea5ed537d799397eb2495890f2a"/>
+    <title>
+        change namespace
+    </title>
+    <updated>2015-06-11T11:46:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;change namespace&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/401503ff4866d8f38f0f62f5dc829d604967629f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/401503ff4866d8f38f0f62f5dc829d604967629f"/>
+    <title>
+        minor version dump
+    </title>
+    <updated>2015-06-10T18:17:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;minor version dump&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7e229f22b59ecd23c323f0bced2ff5f7d6cb424</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a7e229f22b59ecd23c323f0bced2ff5f7d6cb424"/>
+    <title>
+        update countUp path
+    </title>
+    <updated>2015-06-10T18:17:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update countUp path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05801b621b4009751df2f362d98bd62866e537e8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/05801b621b4009751df2f362d98bd62866e537e8"/>
+    <title>
+        move amd/umd support to gulp, add build/clean scripts, move compiled …
+    </title>
+    <updated>2015-06-10T18:17:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;move amd/umd support to gulp, add build/clean scripts, move compiled files to&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/00e05f48834dd388114f1b506983cfe7d1752c7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/00e05f48834dd388114f1b506983cfe7d1752c7e"/>
+    <title>
+        initial commit
+    </title>
+    <updated>2015-06-10T18:11:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;initial commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf3213a665d9d259c7a098665d1c8196d626be35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/bf3213a665d9d259c7a098665d1c8196d626be35"/>
+    <title>
+        tidy markdown
+    </title>
+    <updated>2015-06-10T18:11:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2363940?s=30&amp;v=4"/>
+    <author>
+      <name>hhsnopek</name>
+      <uri>https://github.com/hhsnopek</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;tidy markdown&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

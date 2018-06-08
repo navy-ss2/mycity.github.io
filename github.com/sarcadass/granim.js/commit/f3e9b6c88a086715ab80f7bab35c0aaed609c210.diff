@@ -1,0 +1,68 @@
+diff --git a/LICENSE b/LICENSE
+new file mode 100644
+index 0000000..d79a575
+--- /dev/null
++++ b/LICENSE
+@@ -0,0 +1,21 @@
++The MIT License (MIT)
++
++Copyright (c) 2016 Benjamin Blonde
++
++Permission is hereby granted, free of charge, to any person obtaining a copy
++of this software and associated documentation files (the "Software"), to deal
++in the Software without restriction, including without limitation the rights
++to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
++copies of the Software, and to permit persons to whom the Software is
++furnished to do so, subject to the following conditions:
++
++The above copyright notice and this permission notice shall be included in all
++copies or substantial portions of the Software.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
++IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
++FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
++AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
++LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
++OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
++SOFTWARE.
+diff --git a/docs/api.html b/docs/api.html
+index 6be4fa9..c5f84ae 100644
+--- a/docs/api.html
++++ b/docs/api.html
+@@ -352,7 +352,8 @@ <h2>Default configuration</h2>
+       </div>
+       <div class="footer container bloc clearfix">
+         <p>
+-          Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>.<br>
++          Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>,
++          MIT license.<br>
+           Thanks to <a href="https://twitter.com/designcouch" target="_blank">@designcouch</a>
+           for the <a href="https://codepen.io/designcouch/pen/Atyop" target="_blank">hamburger icon</a>.
+           Inspired by <a href="http://uigradients.com/" target="_blank">uiGradients</a>.
+diff --git a/docs/assets/pug/includes/footer.pug b/docs/assets/pug/includes/footer.pug
+index a854f68..94e115c 100644
+--- a/docs/assets/pug/includes/footer.pug
++++ b/docs/assets/pug/includes/footer.pug
+@@ -1,6 +1,7 @@
+ .footer.container.bloc.clearfix
+     p
+-        | Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>.<br>
++        | Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>,
++        | MIT license.<br>
+         | Thanks to <a href="https://twitter.com/designcouch" target="_blank">@designcouch</a>
+         | for the <a href="https://codepen.io/designcouch/pen/Atyop" target="_blank">hamburger icon</a>.
+         | Inspired by <a href="http://uigradients.com/" target="_blank">uiGradients</a>.
+diff --git a/docs/examples.html b/docs/examples.html
+index 990e5e1..6eccb38 100644
+--- a/docs/examples.html
++++ b/docs/examples.html
+@@ -362,7 +362,8 @@ <h2>Interactive Gradients</h2>
+       </div>
+       <div class="footer container bloc clearfix">
+         <p>
+-          Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>.<br>
++          Created by <a href="https://twitter.com/Sarcadass" target="_blank">@Sarcadass</a>,
++          MIT license.<br>
+           Thanks to <a href="https://twitter.com/designcouch" target="_blank">@designcouch</a>
+           for the <a href="https://codepen.io/designcouch/pen/Atyop" target="_blank">hamburger icon</a>.
+           Inspired by <a href="http://uigradients.com/" target="_blank">uiGradients</a>.

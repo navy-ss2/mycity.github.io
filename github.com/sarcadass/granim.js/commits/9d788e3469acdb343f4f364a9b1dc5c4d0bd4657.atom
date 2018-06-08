@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sarcadass/granim.js/commits/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commits/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sarcadass/granim.js/commits/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657.atom"/>
+  <title>Recent Commits to granim.js:9d788e3469acdb343f4f364a9b1dc5c4d0bd4657</title>
+  <updated>2016-09-15T18:32:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657"/>
+    <title>
+        Fix typo in travis config
+    </title>
+    <updated>2016-09-15T18:32:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo in travis config&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc278e82085ff144888f8f7a45ea7b68b098edf8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/fc278e82085ff144888f8f7a45ea7b68b098edf8"/>
+    <title>
+        Add codecov badge
+    </title>
+    <updated>2016-09-15T18:31:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add codecov badge&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7fa2574edaa36b2081e34db51749c82907d336ca</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/7fa2574edaa36b2081e34db51749c82907d336ca"/>
+    <title>
+        Add travis badge
+    </title>
+    <updated>2016-09-15T14:11:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add travis badge&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66e099da31b7d0e620a658836a666d87ee053b38</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/66e099da31b7d0e620a658836a666d87ee053b38"/>
+    <title>
+        Make travis build before testing
+    </title>
+    <updated>2016-09-14T18:43:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make travis build before testing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5ee1678efd4d78b71f5343d01ebeafc35c78a53</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/b5ee1678efd4d78b71f5343d01ebeafc35c78a53"/>
+    <title>
+        Fix merge conflicts
+    </title>
+    <updated>2016-09-14T18:12:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix merge conflicts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e15ca462e9a66b2f4a39f3a620b401a99b33933</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/8e15ca462e9a66b2f4a39f3a620b401a99b33933"/>
+    <title>
+        Throw error if invalid element is passed
+    </title>
+    <updated>2016-09-14T18:10:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Throw error if invalid element is passed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2cdf7773c1e937d2419510d7f0a223b66caffb15</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/2cdf7773c1e937d2419510d7f0a223b66caffb15"/>
+    <title>
+        Throw error if invalid element is passed
+    </title>
+    <updated>2016-09-14T17:22:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Throw error if invalid element is passed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b0e1d89f5afe4c21483064849675dd7f5cfcca2d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/b0e1d89f5afe4c21483064849675dd7f5cfcca2d"/>
+    <title>
+        Set up Karma and codecov with Istanbul
+    </title>
+    <updated>2016-09-14T16:29:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Set up Karma and codecov with Istanbul&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8bd134c941c70d9c78b64582a00c3d109f1c2534</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/8bd134c941c70d9c78b64582a00c3d109f1c2534"/>
+    <title>
+        Add travis
+    </title>
+    <updated>2016-09-14T15:40:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add travis&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9611068c8a1fc71e9683ee71ee52797e7be0d588</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/9611068c8a1fc71e9683ee71ee52797e7be0d588"/>
+    <title>
+        Fix animation resuming when paused manually then canvas back in view …
+    </title>
+    <updated>2016-09-13T19:10:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix animation resuming when paused manually then canvas back in view if isPausedWhenNotInView=true&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/58da636da55dfb8098b33d56f24a3b3624d67afb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/58da636da55dfb8098b33d56f24a3b3624d67afb"/>
+    <title>
+        Fix animation not starting at init when isPausedWhenNotInView=true an…
+    </title>
+    <updated>2016-09-13T16:59:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix animation not starting at init when isPausedWhenNotInView=true and canvas is in view&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/18f52437de1fa1edcd18b358f71f9befe960aeaa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/18f52437de1fa1edcd18b358f71f9befe960aeaa"/>
+    <title>
+        Update CONTRIBUTING.md #13
+    </title>
+    <updated>2016-09-13T16:40:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update CONTRIBUTING.md #13&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/26634da0a9f3d773dfe8cf9737532af79deebaee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/26634da0a9f3d773dfe8cf9737532af79deebaee"/>
+    <title>
+        v1.0.4
+    </title>
+    <updated>2016-09-12T18:23:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v1.0.4&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/393cd928e535a51fbc72175bb8da849e9a38aff1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/393cd928e535a51fbc72175bb8da849e9a38aff1"/>
+    <title>
+        Update CONTRIBUTING.md #13
+    </title>
+    <updated>2016-09-12T18:22:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update CONTRIBUTING.md #13&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/43ea12dc6139d0e3501018e72f1c0143bff4b4d3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/43ea12dc6139d0e3501018e72f1c0143bff4b4d3"/>
+    <title>
+        Reduce CPU footprint for Chrome #6
+    </title>
+    <updated>2016-09-12T18:21:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reduce CPU footprint for Chrome #6&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8185992d8291f052f826677794d436a397265ca4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/8185992d8291f052f826677794d436a397265ca4"/>
+    <title>
+        Add docs url in the lib header and modify docs js/css watched path
+    </title>
+    <updated>2016-09-12T16:45:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add docs url in the lib header and modify docs js/css watched path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/da705b3c398fcf0571a2b353d5ae71c78062ce56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/da705b3c398fcf0571a2b353d5ae71c78062ce56"/>
+    <title>
+        Add option to change default state name
+    </title>
+    <updated>2016-09-08T15:07:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add option to change default state name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/342a11b08acbeb28194d5006e7c0feb701231144</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/342a11b08acbeb28194d5006e7c0feb701231144"/>
+    <title>
+        Fixing indentation on Docs
+    </title>
+    <updated>2016-09-08T14:47:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixing indentation on Docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bc8cf960424ff191ae1531c5e843a9ae63838d4d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/bc8cf960424ff191ae1531c5e843a9ae63838d4d"/>
+    <title>
+        Merge pull request #11 from howdy39/master
+    </title>
+    <updated>2016-09-08T14:26:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #11 from howdy39/master
+
+Fix typo in examples&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1a763f4697f40ae9d0fd0befc96202d5eb777b87</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/1a763f4697f40ae9d0fd0befc96202d5eb777b87"/>
+    <title>
+        Fix typo in examples
+    </title>
+    <updated>2016-09-08T13:46:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6329532?s=30&amp;v=4"/>
+    <author>
+      <name>howdy39</name>
+      <uri>https://github.com/howdy39</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo in examples&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/inorganik/countUp.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/releases.atom"/>
+  <title>Tags from countUp.js</title>
+  <updated>2017-11-07T17:19:46Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.3</id>
+    <updated>2017-11-07T17:21:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.3"/>
+    <title>v1.9.3</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.2</id>
+    <updated>2017-09-08T14:52:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.2"/>
+    <title>v1.9.2</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.1</id>
+    <updated>2017-08-24T18:37:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.1"/>
+    <title>v1.9.1</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.9.0</id>
+    <updated>2017-09-08T14:54:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.9.0"/>
+    <title>v1.9.0</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.5</id>
+    <updated>2017-04-25T23:20:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.5"/>
+    <title>v1.8.5</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.4</id>
+    <updated>2017-04-18T14:45:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.4"/>
+    <title>v1.8.4</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.3</id>
+    <updated>2017-03-16T16:06:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.3"/>
+    <title>v1.8.3</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.2</id>
+    <updated>2017-03-02T15:58:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.2"/>
+    <title>v1.8.2</title>
+    <content></content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.1</id>
+    <updated>2016-12-28T21:22:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.1"/>
+    <title>v1.8.1</title>
+    <content type="html">&lt;p&gt;Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; href=&quot;https://github.com/inorganik/countUp.js/pull/137&quot;&gt;#137&lt;/a&gt; from vigie/ng2&lt;/p&gt;
+
+&lt;p&gt;Upgrading Angular 2 directive to be compatible with Angular version ^…&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/15536831/v1.8.0</id>
+    <updated>2016-12-12T16:32:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/inorganik/countUp.js/releases/tag/v1.8.0"/>
+    <title>v1.8.0</title>
+    <content type="html">&lt;p&gt;Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; href=&quot;https://github.com/inorganik/countUp.js/pull/130&quot;&gt;#130&lt;/a&gt; from ThYpHo0n/master&lt;/p&gt;
+
+&lt;p&gt;Fix error TS2350 if you do a new CountUp call in Typescript&lt;/p&gt;</content>
+    <author>
+      <name>inorganik</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/109553?s=60&amp;v=4"/>
+  </entry>
+</feed>

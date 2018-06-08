@@ -1,0 +1,410 @@
+diff --git a/karma.conf.js b/karma.conf.js
+index 46d9af5..b4dcc99 100644
+--- a/karma.conf.js
++++ b/karma.conf.js
+@@ -17,20 +17,20 @@ module.exports = function(config) {
+     files: [
+       'dist/granim.js',
+       'test/testUtils.js',
+-      'test/**/*Spec.js'
++      'test/**/*Spec.js',
++      { pattern: 'test/img/*.jpg', watched: false, included: false, served: true }
+     ],
+ 
++    proxies: {
++      '/img/': 'http://localhost:9876/base/test/img'
++    },
+ 
+     // list of files to exclude
+-    exclude: [
+-    ],
++    exclude: [],
+ 
+     // preprocess matching files before serving them to the browser
+     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
+-    preprocessors: {
+-      '**/*.js': ['es6'],
+-      'dist/**/*.js': ['coverage']
+-    },
++    preprocessors: { 'dist/**/*.js': ['coverage'] },
+ 
+ 
+     // test results reporter to use
+@@ -40,8 +40,8 @@ module.exports = function(config) {
+ 
+     coverageReporter: {
+       reporters: [
+-        {type: 'lcov', subdir: '.'},
+-        {type: 'text-summary'}
++        { type: 'lcov', subdir: '.' },
++        { type: 'text-summary' }
+       ]
+     },
+ 
+@@ -76,4 +76,4 @@ module.exports = function(config) {
+     // how many browser should be started simultaneous
+     concurrency: Infinity
+   })
+-}
++};
+diff --git a/test/animationSpec.js b/test/animationSpec.js
+index 780a2ae..6524971 100644
+--- a/test/animationSpec.js
++++ b/test/animationSpec.js
+@@ -1,5 +1,7 @@
+ describe('Animation: ', function() {
+-	var value, granimInstance, gradientColor, canvas;
++	var event = document.createEvent('HTMLEvents');
++	var value, granimInstance, gradientColor, canvas,
++		canvasWidthMiddle, canvasHeightMiddle;
+ 
+ 	beforeEach(function(done) {
+ 		setTimeout(function() {
+@@ -9,12 +11,11 @@ describe('Animation: ', function() {
+ 	});
+ 
+ 	it("should support async execution of test preparation and expectations", function(done) {
+-		setCanvas();
++		canvas = setCanvas();
+ 		granimInstance = new Granim({
+ 			element: '#granim-canvas',
+ 			name: 'granim',
+ 			direction: 'left-right',
+-			//isPausedWhenNotInView: true,
+ 			opacity: [1, 1],
+ 			states : {
+ 				"default-state": {
+@@ -22,13 +23,16 @@ describe('Animation: ', function() {
+ 						['#BA8B02', '#181818'],
+ 						['#7b4397', '#dc2430']
+ 					],
+-					transitionSpeed: 100,
++					transitionSpeed: 250,
+ 					loop: true
+ 				}
+ 			}
+ 		});
+-		canvas = document.querySelector(granimInstance.element);
+-		gradientColor = granimInstance.context.getImageData(150, 75, 5, 5).data;
++		event.initEvent('resize', true, false);
++		window.dispatchEvent(event);
++		canvasWidthMiddle = (canvas.width - 50) / 2;
++		canvasHeightMiddle = (canvas.height - 50) / 2;
++		gradientColor = granimInstance.context.getImageData(canvasWidthMiddle, canvasHeightMiddle, 5, 5);
+ 
+ 		expect(granimInstance).toBeDefined();
+ 		done();
+@@ -43,9 +47,10 @@ describe('Animation: ', function() {
+ 
+ 		it('Gradient animation is working', function(done) {
+ 			setTimeout(function() {
+-				expect(gradientColor).not.toEqual(granimInstance.context.getImageData(150, 75, 5, 5).data);
++				var isSameGradientImage = compareImages(gradientColor, granimInstance.context.getImageData(canvasWidthMiddle, canvasHeightMiddle, 5, 5));
++				expect(isSameGradientImage).toBe(false);
+ 				done();
+-			}, 205);
++			}, 250);
+ 		});
+ 
+ 		afterEach(function() {
+diff --git a/test/imageSpec.js b/test/imageSpec.js
+new file mode 100644
+index 0000000..199e856
+--- /dev/null
++++ b/test/imageSpec.js
+@@ -0,0 +1,204 @@
++
++describe('Image: ', function() {
++	var value, granimInstance, gradientColor, canvas,
++		canvasWidthMiddle, canvasHeightMiddle;
++	var event = document.createEvent('HTMLEvents');
++
++	beforeEach(function(done) {
++		setTimeout(function() {
++			value = 0;
++			done();
++		}, 1);
++	});
++
++	it('should support async execution of test preparation and expectations with image setup', function(done) {
++		canvas = setCanvas();
++		granimInstance = new Granim({
++			element: '#granim-canvas',
++			name: 'basic-gradient',
++			direction: 'top-bottom',
++			opacity: [1, 1, 1],
++			isPausedWhenNotInView: true,
++			image: {
++				source: 'img/800x200.jpg',
++				position: ['left', 'center'],
++				stretchMode: ['stretch', 'stretch'],
++				blendingMode: 'multiply'
++			},
++			states: {
++				'default-state': {
++					gradients: [
++						['#485563', '#29323c', '#29323c'],
++						['#556270', '#FF6B6B', '#FF6B6B']
++					]
++				}
++			}
++		});
++		document.createEvent('HTMLEvents');
++		event.initEvent('resize', true, false);
++		window.dispatchEvent(event);
++		canvasWidthMiddle = (canvas.width - 50) / 2;
++		canvasHeightMiddle = (canvas.height - 50) / 2;
++		gradientColor = granimInstance.context.getImageData(canvasWidthMiddle, canvasHeightMiddle, 5, 5);
++		expect(granimInstance).toBeDefined();
++		done();
++	});
++
++	describe('Asynchronous specs: User inputs validation', function() {
++		var originalTimeout;
++		beforeEach(function() {
++			originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
++			jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
++		});
++
++		it('throws error on invalid element "image.position"', function(){
++			function updateInstanceWithWrongParams() {
++				return new Granim({
++					element: '#granim-canvas',
++					name: 'basic-gradient',
++					direction: 'top-bottom',
++					opacity: [1, 1, 1],
++					isPausedWhenNotInView: true,
++					image: {
++						source: 'img/800x200.jpg',
++						// position should be [x, y], here it's [y, x]
++						position: ['top', 'left']
++					},
++					states: {
++						'default-state': {
++							gradients: [
++								['#485563', '#29323c', '#29323c'],
++								['#556270', '#FF6B6B', '#FF6B6B']
++							]
++						}
++					}
++				});
++			}
++			expect(updateInstanceWithWrongParams).toThrowError(
++				'Granim: Input error on "image.position" option.\nCheck the API https://sarcadass.github.io/granim.js/api.html.'
++			);
++		});
++
++		it('throws error on invalid element "image.stretchMode"', function(){
++			function updateInstanceWithWrongParams() {
++				return new Granim({
++					element: '#granim-canvas',
++					name: 'basic-gradient',
++					direction: 'top-bottom',
++					opacity: [1, 1, 1],
++					isPausedWhenNotInView: true,
++					image: {
++						source: 'img/800x200.jpg',
++						position: ['right', 'bottom'],
++						// mistake on 'stretch-if-smaller'
++						stretchMode: ['stretch-if-smaler', 'stretch']
++					},
++					states: {
++						'default-state': {
++							gradients: [
++								['#485563', '#29323c', '#29323c']
++							]
++						}
++					}
++				});
++			}
++			expect(updateInstanceWithWrongParams).toThrowError(
++				'Granim: Input error on "image.stretchMode" option.\nCheck the API https://sarcadass.github.io/granim.js/api.html.'
++			);
++		});
++
++		afterEach(function() {
++			jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
++		});
++	});
++
++	describe('Asynchronous specs: Animation with an image', function() {
++		var originalTimeout;
++		beforeEach(function() {
++			originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
++			jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
++		});
++
++		it('Gradient animation is working', function(done) {
++			setTimeout(function() {
++				var isSameGradientImage = compareImages(gradientColor,
++					granimInstance.context.getImageData(canvasWidthMiddle, canvasHeightMiddle, 5, 5));
++				expect(isSameGradientImage).toBe(false);
++				done();
++			}, 250);
++		});
++
++		it('ChangeBlendingMode method is working', function(done) {
++			granimInstance.changeBlendingMode('screen');
++			setTimeout(function() {
++				expect(granimInstance.image.blendingMode).toEqual('screen');
++				done();
++			}, 200);
++		});
++
++		it('Gradient animation is working without "image.position" and/or "image.stretchMode" set', function(done) {
++			canvas.style.height = '100px';
++			granimInstance = new Granim({
++				element: '#granim-canvas',
++				name: 'basic-gradient',
++				direction: 'radial',
++				opacity: [1, 1, 1],
++				isPausedWhenNotInView: true,
++				image: { source: 'img/800x200.jpg' },
++				states: {
++					'default-state': { gradients: [['#485563', '#29323c', '#29323c']] }
++				}
++			});
++
++			expect(granimInstance).toBeDefined();
++			done();
++		});
++
++		it('Different parameters are working 1/2', function(done) {
++			granimInstance = new Granim({
++				element: '#granim-canvas',
++				name: 'basic-gradient',
++				direction: 'radial',
++				opacity: [1, 1, 1],
++				isPausedWhenNotInView: true,
++				image: {
++					source: 'img/800x200.jpg',
++					position: ['right', 'top'],
++					stretchMode: ['stretch-if-bigger', 'stretch-if-bigger']
++				},
++				states: {
++					'default-state': { gradients: [['#485563', '#29323c', '#29323c']] }
++				}
++			});
++
++			expect(granimInstance).toBeDefined();
++			done();
++		});
++
++		it('Different parameters are working 2/2', function(done) {
++			canvas.style.height = '300px';
++			granimInstance = new Granim({
++				element: '#granim-canvas',
++				name: 'basic-gradient',
++				direction: 'radial',
++				opacity: [1, 1, 1],
++				isPausedWhenNotInView: true,
++				image: {
++					source: 'img/800x200.jpg',
++					position: ['center', 'bottom'],
++					stretchMode: ['stretch-if-smaller', 'stretch-if-smaller']
++				},
++				states: {
++					'default-state': { gradients: [['#485563', '#29323c', '#29323c']] }
++				}
++			});
++
++			expect(granimInstance).toBeDefined();
++			done();
++		});
++
++		afterEach(function() {
++			jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
++		});
++	});
++});
+diff --git a/test/img/800x200.jpg b/test/img/800x200.jpg
+new file mode 100644
+index 0000000..8aff58f
+Binary files /dev/null and b/test/img/800x200.jpg differ
+diff --git a/test/manual-test.html b/test/manual-test.html
+new file mode 100644
+index 0000000..1f50efa
+--- /dev/null
++++ b/test/manual-test.html
+@@ -0,0 +1,53 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++	<meta charset="UTF-8">
++	<title>Manual test - Granim</title>
++	<style>
++		body {
++			height: 250vh;
++			margin: 0;
++		}
++
++		#granim-canvas {
++			display: block;
++			width: calc(100% - 100px);
++			min-width: 200px;
++			height: calc(100vh - 100px);
++			min-height: 100px;
++			margin: 50px;
++		}
++	</style>
++</head>
++<body>
++<canvas id="granim-canvas"></canvas>
++	<h3>1166x300</h3>
++	<script src="../dist/granim.js"></script>
++	<script>
++		var granimInstance = new Granim({
++			element: '#granim-canvas',
++			direction: 'top-bottom',
++			opacity: [1, 1, 1],
++			isPausedWhenNotInView: true,
++			image: {
++				source: 'img/800x200.jpg',
++				position: ['center', 'center'],
++				stretchMode: ['stretch-if-smaller', 'stretch-if-bigger'],
++				blendingMode: 'multiply'
++			},
++			states : {
++				"default-state": {
++					gradients: [
++						['#29323c', '#485563'],
++						['#FF6B6B', '#556270'],
++						['#80d3fe', '#7ea0c4'],
++						['#ffb62a', '#eceba3']
++
++					],
++					transitionSpeed: 2000
++				}
++			}
++		});
++	</script>
++</body>
++</html>
+diff --git a/test/testUtils.js b/test/testUtils.js
+index 10ced12..b9d5922 100644
+--- a/test/testUtils.js
++++ b/test/testUtils.js
+@@ -9,11 +9,22 @@ function setCanvas(canvasId) {
+ 
+ 	canvas = document.createElement('canvas');
+ 	canvas.setAttribute('id', canvasId || 'granim-canvas');
+-	canvas.setAttribute('style', 'position:absolute; width: 100%; height: 150px; left: 0; right: 0;');
++	canvas.setAttribute('style', 'position:absolute; width: 100%; height: 300px; left: 0; right: 0;');
+ 	document.body.appendChild(canvas);
++	return canvas;
+ }
+ 
+ function unsetCanvas(canvasId) {
+ 	var canvas = document.querySelector('#' + (canvasId || 'granim-canvas'));
+ 	if (canvas) canvas.remove();
+ }
++
++function compareImages(img1,img2){
++	if(img1.data.length != img2.data.length)
++		return false;
++	for(var i = 0; i < img1.data.length; ++i){
++		if(img1.data[i] != img2.data[i])
++			return false;
++	}
++	return true;
++}

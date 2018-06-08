@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/v1.8.5</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/v1.8.5"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/v1.8.5.atom"/>
+  <title>Recent Commits to countUp.js:v1.8.5</title>
+  <updated>2017-04-25T23:19:37Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e42f0b5721b309d1a4a40563148eeca99ec2e2b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e42f0b5721b309d1a4a40563148eeca99ec2e2b2"/>
+    <title>
+        fixed issue where calling update in callback caused infinite rAF
+    </title>
+    <updated>2017-04-25T23:19:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed issue where calling update in callback caused infinite rAF&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f79e9c137953884b8f669deeb81d6258a333d95c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/f79e9c137953884b8f669deeb81d6258a333d95c"/>
+    <title>
+        fixing issue where grouping option was ignored
+    </title>
+    <updated>2017-04-18T14:43:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixing issue where grouping option was ignored&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f51d3694d8e894141441e58c0dc93758f0b425a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/2f51d3694d8e894141441e58c0dc93758f0b425a"/>
+    <title>
+        new initialize function checks for errors, removed changelog
+    </title>
+    <updated>2017-03-16T16:04:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;new initialize function checks for errors, removed changelog&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3796d4a4eef8d93bed5d945bd2ab8bd553e8771</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d3796d4a4eef8d93bed5d945bd2ab8bd553e8771"/>
+    <title>
+        Merge pull request #153 from clabnet/master
+    </title>
+    <updated>2017-03-14T14:43:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #153 from clabnet/master
+
+Add angular-countUp.js directive to bower.json.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4201ad077f12b627351b0d3fc5e93ce9c5ec8b0c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/4201ad077f12b627351b0d3fc5e93ce9c5ec8b0c"/>
+    <title>
+        Add angular-countUp.js directive to bower.json.
+    </title>
+    <updated>2017-03-14T08:45:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6067610?s=30&amp;v=4"/>
+    <author>
+      <name>clabnet</name>
+      <uri>https://github.com/clabnet</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add angular-countUp.js directive to bower.json.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2759f953c534c03d9194e5c3a31f1be1bfca18f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d2759f953c534c03d9194e5c3a31f1be1bfca18f"/>
+    <title>
+        build for last PR, update some things
+    </title>
+    <updated>2017-03-02T15:52:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;build for last PR, update some things&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d401e5fcc3d37f3813275440bdee3e6df84d3863</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d401e5fcc3d37f3813275440bdee3e6df84d3863"/>
+    <title>
+        Merge pull request #149 from wubaiqing/master
+    </title>
+    <updated>2017-03-02T15:20:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #149 from wubaiqing/master
+
+Fixed an object that does not exist in Bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d353b76bd997eb56e7754a0c12d83037997e6eb0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d353b76bd997eb56e7754a0c12d83037997e6eb0"/>
+    <title>
+        Fixed an object that does not exist in Bug
+    </title>
+    <updated>2017-03-02T10:31:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1062448?s=30&amp;v=4"/>
+    <author>
+      <name>wubaiqing</name>
+      <uri>https://github.com/wubaiqing</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed an object that does not exist in Bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aca505c1d69d7a26b89190274b14c6ed9feee856</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/aca505c1d69d7a26b89190274b14c6ed9feee856"/>
+    <title>
+        Merge pull request #142 from iamandrewluca/patch-1
+    </title>
+    <updated>2017-03-01T16:54:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #142 from iamandrewluca/patch-1
+
+Allow only CountUp options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d54b74472da11990fe8367a1ec859957e6ec74bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/d54b74472da11990fe8367a1ec859957e6ec74bc"/>
+    <title>
+        Merge branch &#39;master&#39; into patch-1
+    </title>
+    <updated>2017-02-23T07:10:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1881266?s=30&amp;v=4"/>
+    <author>
+      <name>iamandrewluca</name>
+      <uri>https://github.com/iamandrewluca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into patch-1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/60caf3060072334e266cf5571e185273bd29b605</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/60caf3060072334e266cf5571e185273bd29b605"/>
+    <title>
+        Check if options is not null
+    </title>
+    <updated>2017-02-23T07:02:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1881266?s=30&amp;v=4"/>
+    <author>
+      <name>iamandrewluca</name>
+      <uri>https://github.com/iamandrewluca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Check if options is not null&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/96b339826c9229ed3117f03d2bb32798d53564e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/96b339826c9229ed3117f03d2bb32798d53564e5"/>
+    <title>
+        Build dist scripts
+    </title>
+    <updated>2017-02-23T06:58:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1881266?s=30&amp;v=4"/>
+    <author>
+      <name>iamandrewluca</name>
+      <uri>https://github.com/iamandrewluca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build dist scripts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a6da0b72d131ed69075d4b91932928251f5262eb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a6da0b72d131ed69075d4b91932928251f5262eb"/>
+    <title>
+        updating version number to reflect current release
+    </title>
+    <updated>2017-01-19T17:08:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;updating version number to reflect current release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f62a7c922869521432120813f29e85c38a6198e7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/f62a7c922869521432120813f29e85c38a6198e7"/>
+    <title>
+        Check if options parameter is defined
+    </title>
+    <updated>2017-01-07T00:25:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1881266?s=30&amp;v=4"/>
+    <author>
+      <name>iamandrewluca</name>
+      <uri>https://github.com/iamandrewluca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Check if options parameter is defined&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/304053095584ba0d3f9069755bc156c8bcfcc814</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/304053095584ba0d3f9069755bc156c8bcfcc814"/>
+    <title>
+        Allow only CountUp options
+    </title>
+    <updated>2017-01-06T23:28:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1881266?s=30&amp;v=4"/>
+    <author>
+      <name>iamandrewluca</name>
+      <uri>https://github.com/iamandrewluca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow only CountUp options
+
+Added `sufix` and `preffix` top object options, and loop over default options, instead of user defined options.
+Made this change because user can send to CountUp options that a not related to it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28bb32ed8b1a47817237ff8cc62593f4004f33ed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/28bb32ed8b1a47817237ff8cc62593f4004f33ed"/>
+    <title>
+        1.8.1
+    </title>
+    <updated>2016-12-28T21:25:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.8.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/309f745aa98e8e557726e2ee6ec70088d8cbcfd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/309f745aa98e8e557726e2ee6ec70088d8cbcfd8"/>
+    <title>
+        Merge pull request #137 from vigie/ng2
+    </title>
+    <updated>2016-12-19T15:32:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #137 from vigie/ng2
+
+Upgrading Angular 2 directive to be compatible with Angular version ^…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/826426982b849cfd016c2e1193521f9e2fe4f969</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/826426982b849cfd016c2e1193521f9e2fe4f969"/>
+    <title>
+        Upgrading Angular 2 directive to be compatible with Angular version ^…
+    </title>
+    <updated>2016-12-17T19:22:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5872403?s=30&amp;v=4"/>
+    <author>
+      <name>vigie</name>
+      <uri>https://github.com/vigie</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrading Angular 2 directive to be compatible with Angular version ^2.0.0
+
+Changing bundle to UMD mode for use with webpack.
+
+Fixes https://github.com/inorganik/countUp.js/issues/133
+
+Tested with an Angular 2.2.4 application.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3b1a41b486fe2899ea3625f73adeb8862b4b09e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/3b1a41b486fe2899ea3625f73adeb8862b4b09e2"/>
+    <title>
+        Merge pull request #130 from ThYpHo0n/master
+    </title>
+    <updated>2016-12-06T16:19:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #130 from ThYpHo0n/master
+
+Fix error TS2350 if you do a new CountUp call in Typescript&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/61989d4899390e27c69e1cea791df56ad14ef715</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/61989d4899390e27c69e1cea791df56ad14ef715"/>
+    <title>
+        Fix error TS2350 if you do a new CountUp call in Typescript
+    </title>
+    <updated>2016-12-06T12:16:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1675399?s=30&amp;v=4"/>
+    <author>
+      <name>ThYpHo0n</name>
+      <uri>https://github.com/ThYpHo0n</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix error TS2350 if you do a new CountUp call in Typescript&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

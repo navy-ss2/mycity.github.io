@@ -1,0 +1,12 @@
+diff --git a/component.json b/component.json
+index c1eea31..37bac16 100644
+--- a/component.json
++++ b/component.json
+@@ -1,7 +1,6 @@
+ {
+   "name": "countUp.js",
+   "repo": "inorganik/countUp.js",
+-  "version": "1.5.3",
+   "scripts": ["./dist/countUp.min.js"],
+   "demo": "http://inorganik.github.io/countUp.js",
+   "author": "Jamie Perkins",

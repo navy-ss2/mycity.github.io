@@ -1,0 +1,19 @@
+From 9d788e3469acdb343f4f364a9b1dc5c4d0bd4657 Mon Sep 17 00:00:00 2001
+From: Benjamin Blonde <sarcadass@gmail.com>
+Date: Thu, 15 Sep 2016 20:32:14 +0200
+Subject: [PATCH] Fix typo in travis config
+
+---
+ .travis.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.travis.yml b/.travis.yml
+index cbe4958..48abedf 100644
+--- a/.travis.yml
++++ b/.travis.yml
+@@ -1,4 +1,4 @@
+-language: nodej_s
++language: node_js
+ node_js:
+   - "stable"
+   - "6.1"

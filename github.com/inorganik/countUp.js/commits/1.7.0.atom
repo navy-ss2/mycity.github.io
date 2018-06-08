@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/inorganik/countUp.js/commits/1.7.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commits/1.7.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/inorganik/countUp.js/commits/1.7.0.atom"/>
+  <title>Recent Commits to countUp.js:1.7.0</title>
+  <updated>2016-04-07T22:58:37Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e0afc481b195845a6a0b409383c85a20560cda86</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/e0afc481b195845a6a0b409383c85a20560cda86"/>
+    <title>
+        1.7.0 for merged improvements
+    </title>
+    <updated>2016-04-07T22:58:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.7.0 for merged improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7afbed5cc6c550e90e656af785911d8303ba407b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/7afbed5cc6c550e90e656af785911d8303ba407b"/>
+    <title>
+        Merge pull request #109 from charitywater/custom-formatter
+    </title>
+    <updated>2016-04-07T22:43:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #109 from charitywater/custom-formatter
+
+Support custom formatting function&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/54ab71bff6a392aac1493aaba5891d77c05d51e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/54ab71bff6a392aac1493aaba5891d77c05d51e2"/>
+    <title>
+        Support custom formatting function
+    </title>
+    <updated>2016-04-07T21:30:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/316507?s=30&amp;v=4"/>
+    <author>
+      <name>tristanoneil</name>
+      <uri>https://github.com/tristanoneil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support custom formatting function
+
+In the case that you need more customization than the general formatting
+options provide you can now specify a formatting function that returns a
+string where you can handle any custom formatting you may need.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa106f6115d61bfc226e39453be5070cfe1c7035</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/fa106f6115d61bfc226e39453be5070cfe1c7035"/>
+    <title>
+        Merge pull request #108 from mmieluch/feature/simplify-easing-docs
+    </title>
+    <updated>2016-03-02T16:23:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #108 from mmieluch/feature/simplify-easing-docs
+
+Remove easing fn preview window&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16a6cd97e28c2479645c4b3a64db5ab290529d64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/16a6cd97e28c2479645c4b3a64db5ab290529d64"/>
+    <title>
+        Remove easing fn preview window
+    </title>
+    <updated>2016-03-02T11:37:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove easing fn preview window&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5d1ea33a4355db092d8b9f387e907cb014b48cfd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5d1ea33a4355db092d8b9f387e907cb014b48cfd"/>
+    <title>
+        Merge pull request #103 from jgranstrom/angular-incremental-update-fix
+    </title>
+    <updated>2016-02-29T18:47:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #103 from jgranstrom/angular-incremental-update-fix
+
+Angular incremental update fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a1be4cae583723cc7dab7ca762b8a59322d7eff8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a1be4cae583723cc7dab7ca762b8a59322d7eff8"/>
+    <title>
+        Merge branch &#39;master&#39; into angular-incremental-update-fix
+    </title>
+    <updated>2016-02-29T17:26:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into angular-incremental-update-fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0a49f0f7cbcd81360bc853ad31ae0d908841b987</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/0a49f0f7cbcd81360bc853ad31ae0d908841b987"/>
+    <title>
+        Merge pull request #107 from mmieluch/feature/custom-easing
+    </title>
+    <updated>2016-02-29T16:04:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #107 from mmieluch/feature/custom-easing
+
+Custom easing functions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/131570479b00419a541a2efb913bf8a67b1b6754</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/131570479b00419a541a2efb913bf8a67b1b6754"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2016-02-26T13:18:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/880041b4be6c753badd8cb073bac8a680b2d3c81</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/880041b4be6c753badd8cb073bac8a680b2d3c81"/>
+    <title>
+        Update main plugin documentation
+    </title>
+    <updated>2016-02-26T13:01:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update main plugin documentation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f57f5e0c329556b26a5a0cd26c3f6d94881bd277</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/f57f5e0c329556b26a5a0cd26c3f6d94881bd277"/>
+    <title>
+        Process updated plugin with Gulp
+    </title>
+    <updated>2016-02-26T11:43:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Process updated plugin with Gulp&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/81a7861584d612b27ca1048e364bbb094b77a9be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/81a7861584d612b27ca1048e364bbb094b77a9be"/>
+    <title>
+        Add support for custom easing closures
+    </title>
+    <updated>2016-02-26T11:42:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add support for custom easing closures&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/edd611dfb855feed5a2b0e3e7dd7da9cbb946ec4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/edd611dfb855feed5a2b0e3e7dd7da9cbb946ec4"/>
+    <title>
+        Ignore OSX .DS_Store
+    </title>
+    <updated>2016-02-26T11:37:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ignore OSX .DS_Store&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a089ca13dc92f80fa485227a0f31c0582d958d46</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/a089ca13dc92f80fa485227a0f31c0582d958d46"/>
+    <title>
+        Ignore PhpStorm/Idea meta directory
+    </title>
+    <updated>2016-02-26T10:38:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/79f8c31cf3e913a0a3ea1ebf17d5af58?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>michal.mieluch@bluefroglondon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ignore PhpStorm/Idea meta directory&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9861a8088a13c87f9530892a01d5bb76e6d6c61c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/9861a8088a13c87f9530892a01d5bb76e6d6c61c"/>
+    <title>
+        Merge pull request #105 from daggmano/options-attribute
+    </title>
+    <updated>2016-02-12T13:45:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #105 from daggmano/options-attribute
+
+Added options attribute to Angular directive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/858c6ffef7fd677a5635bb41d6744d537bec142d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/858c6ffef7fd677a5635bb41d6744d537bec142d"/>
+    <title>
+        Added options attribute to Angular directive
+    </title>
+    <updated>2016-02-12T02:59:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/290460?s=30&amp;v=4"/>
+    <author>
+      <name>daggmano</name>
+      <uri>https://github.com/daggmano</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added options attribute to Angular directive
+
+Options attribute for Angular directive allows for extra configuration,
+such as useEasing.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/680fc7c52cda7c5931362662ff9b80fc4530b137</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/680fc7c52cda7c5931362662ff9b80fc4530b137"/>
+    <title>
+        Merge pull request #104 from jgranstrom/angular-filter-support
+    </title>
+    <updated>2016-01-25T18:11:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/109553?s=30&amp;v=4"/>
+    <author>
+      <name>inorganik</name>
+      <uri>https://github.com/inorganik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #104 from jgranstrom/angular-filter-support
+
+Angular filter support&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5810f83750c577ac3f3ce8cdd42b37614dcbb140</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/5810f83750c577ac3f3ce8cdd42b37614dcbb140"/>
+    <title>
+        Build for incremental update
+    </title>
+    <updated>2016-01-23T10:00:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build for incremental update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc27a6d722f9336a478458effa2de23401202db5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/fc27a6d722f9336a478458effa2de23401202db5"/>
+    <title>
+        Reuse countUp instance on incremental endVal value changes
+    </title>
+    <updated>2016-01-23T09:59:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reuse countUp instance on incremental endVal value changes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/22532b9ff1607c0c7cb4af62e6e903558eb7ba70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/inorganik/countUp.js/commit/22532b9ff1607c0c7cb4af62e6e903558eb7ba70"/>
+    <title>
+        Build for angular filter support
+    </title>
+    <updated>2016-01-23T09:54:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3751473?s=30&amp;v=4"/>
+    <author>
+      <name>jgranstrom</name>
+      <uri>https://github.com/jgranstrom</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build for angular filter support&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

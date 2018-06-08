@@ -1,0 +1,174 @@
+From d2759f953c534c03d9194e5c3a31f1be1bfca18f Mon Sep 17 00:00:00 2001
+From: Jamie Perkins <jamie.perkins@gmail.com>
+Date: Thu, 2 Mar 2017 08:52:04 -0700
+Subject: [PATCH] build for last PR, update some things
+
+---
+ LICENSE.md          |  2 --
+ README.md           | 15 +++++++--------
+ countUp.js          | 10 +++++-----
+ dist/countUp.js     | 10 +++++-----
+ dist/countUp.min.js |  2 +-
+ package.json        |  4 ++--
+ 6 files changed, 20 insertions(+), 23 deletions(-)
+
+diff --git a/LICENSE.md b/LICENSE.md
+index 9c65381..c7d9150 100644
+--- a/LICENSE.md
++++ b/LICENSE.md
+@@ -1,7 +1,5 @@
+ The MIT License (MIT)
+ 
+-Copyright (c) 2014-2016 Jamie Perkins
+-
+ Permission is hereby granted, free of charge, to any person obtaining a copy of
+ this software and associated documentation files (the "Software"), to deal in
+ the Software without restriction, including without limitation the rights to
+diff --git a/README.md b/README.md
+index e414bec..ca2d77f 100644
+--- a/README.md
++++ b/README.md
+@@ -5,7 +5,7 @@ Despite its name, CountUp can count in either direction, depending on the `start
+ 
+ CountUp.js supports all browsers.
+ 
+-##[Try the demo](http://inorganik.github.io/countUp.js)
++## [Try the demo](http://inorganik.github.io/countUp.js)
+ 
+ ## Installation
+ 
+@@ -18,12 +18,13 @@ If you are using Angular, you can use the included Angular module. Use the count
+ 
+ ## Angular 2 directive
+ An identical Angular 2 version of the directive compatible with version ^2.0.0 is also provided.
+-Simply import the module from `dist/` into your application module's `imports` array.
++Simply import the module from `dist/` into your application module's `imports` array. See example below.
+ 
+-See example below.
++## jQuery
++A jQuery version is also included in case you like dollar signs.
+ 
+ ## WordPress plugin
+-If you want a quick and easy way to use this on your WordPress site, try this plugin by [@4DMedia](https://twitter.com/4dMedia): [https://wordpress.org/plugins/countup-js/](https://wordpress.org/plugins/countup-js/)
++Add CountUp to your WordPress site with this plugin: [https://wordpress.org/plugins/countup-js/](https://wordpress.org/plugins/countup-js/)
+ 
+ ## Usage:
+ Params:
+@@ -95,9 +96,7 @@ With [angular-scroll-spy](http://inorganik.github.io/angular-scroll-spy/):
+ 
+ #### Angular 2
+ 
+-The directive is compatible with Angular version ^2.0.0.
+-
+-Make sure `countUp.js` is loaded as a global dependency during bootstrapping.
++The directive is compatible with Angular version ^2.0.0. Make sure `countUp.js` is loaded as a global dependency during bootstrapping.
+ 
+ Note the value for the `options` parameter is passed directly to the directive attribute selector.
+ 
+@@ -166,7 +165,7 @@ demo.start();
+ 
+ Before you make a pull request, please be sure to follow these super simple instructions:
+ 
+-1. Do your work on the `countUp.js` and/or `angular-countUp.js` files in the root directory.
++1. Do your work on the `countUp.js` and/or other files in the root directory.
+ 2. In Terminal, `cd` to the `countUp.js` directory.
+ 3. Run `npm install`, which installs gulp and its dependencies.
+ 4. Run `gulp`, which copies and minifies the .js files to the `dist` folder.
+diff --git a/countUp.js b/countUp.js
+index f6a1aa5..a2153bb 100644
+--- a/countUp.js
++++ b/countUp.js
+@@ -50,11 +50,11 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+         decimal : '.', // character to use as a decimal
+         easingFn: null, // optional custom easing closure function, default is Robert Penner's easeOutExpo
+         formattingFn: null, // optional custom formatting function, default is self.formatNumber below
+-        prefix: '',
+-        suffix: ''
++        prefix: '', // optional text before the result
++        suffix: '' // optional text after the result
+     };
+     // extend default options with passed options object
+-    if (typeof options === 'object' && options != null) {
++    if (options && typeof options === 'object') {
+         for (var key in self.options) {
+             if (options.hasOwnProperty(key)) {
+                 self.options[key] = options[key];
+@@ -63,6 +63,8 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+     }
+     if (self.options.separator === '') { self.options.useGrouping = false; }
+ 
++    self.version = function () { return '1.8.2'; };
++
+     self.d = (typeof target === 'string') ? document.getElementById(target) : target;
+     self.startVal = Number(startVal);
+     self.endVal = Number(endVal);
+@@ -95,8 +97,6 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+     self.easingFn = self.options.easingFn ? self.options.easingFn : self.easeOutExpo;
+     self.formattingFn = self.options.formattingFn ? self.options.formattingFn : self.formatNumber;
+ 
+-    self.version = function () { return '1.8.1'; };
+-
+     // Print value to target
+     self.printValue = function(value) {
+         var result = self.formattingFn(value);
+diff --git a/dist/countUp.js b/dist/countUp.js
+index 51c8255..267eb5b 100644
+--- a/dist/countUp.js
++++ b/dist/countUp.js
+@@ -61,11 +61,11 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+         decimal : '.', // character to use as a decimal
+         easingFn: null, // optional custom easing closure function, default is Robert Penner's easeOutExpo
+         formattingFn: null, // optional custom formatting function, default is self.formatNumber below
+-        prefix: '',
+-        suffix: ''
++        prefix: '', // optional text before the result
++        suffix: '' // optional text after the result
+     };
+     // extend default options with passed options object
+-    if (typeof options === 'object' && options != null) {
++    if (options && typeof options === 'object') {
+         for (var key in self.options) {
+             if (options.hasOwnProperty(key)) {
+                 self.options[key] = options[key];
+@@ -74,6 +74,8 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+     }
+     if (self.options.separator === '') { self.options.useGrouping = false; }
+ 
++    self.version = function () { return '1.8.2'; };
++
+     self.d = (typeof target === 'string') ? document.getElementById(target) : target;
+     self.startVal = Number(startVal);
+     self.endVal = Number(endVal);
+@@ -106,8 +108,6 @@ var CountUp = function(target, startVal, endVal, decimals, duration, options) {
+     self.easingFn = self.options.easingFn ? self.options.easingFn : self.easeOutExpo;
+     self.formattingFn = self.options.formattingFn ? self.options.formattingFn : self.formatNumber;
+ 
+-    self.version = function () { return '1.8.1'; };
+-
+     // Print value to target
+     self.printValue = function(value) {
+         var result = self.formattingFn(value);
+diff --git a/dist/countUp.min.js b/dist/countUp.min.js
+index 24a0493..89fab0b 100644
+--- a/dist/countUp.min.js
++++ b/dist/countUp.min.js
+@@ -1 +1 @@
+-!function(a,t){"function"==typeof define&&define.amd?define(t):"object"==typeof exports?module.exports=t(require,exports,module):a.CountUp=t()}(this,function(a,t,n){var e=function(a,t,n,e,r,i){for(var o=0,s=["webkit","moz","ms","o"],m=0;m<s.length&&!window.requestAnimationFrame;++m)window.requestAnimationFrame=window[s[m]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[s[m]+"CancelAnimationFrame"]||window[s[m]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(a,t){var n=(new Date).getTime(),e=Math.max(0,16-(n-o)),r=window.setTimeout(function(){a(n+e)},e);return o=n+e,r}),window.cancelAnimationFrame||(window.cancelAnimationFrame=function(a){clearTimeout(a)});var u=this;if(u.options={useEasing:!0,useGrouping:!0,separator:",",decimal:".",easingFn:null,formattingFn:null,prefix:"",suffix:""},"object"==typeof i&&null!=object)for(var l in u.options)i.hasOwnProperty(l)&&(u.options[l]=i[l]);""===u.options.separator&&(u.options.useGrouping=!1),u.d="string"==typeof a?document.getElementById(a):a,u.startVal=Number(t),u.endVal=Number(n),u.countDown=u.startVal>u.endVal,u.frameVal=u.startVal,u.decimals=Math.max(0,e||0),u.dec=Math.pow(10,u.decimals),u.duration=1e3*Number(r)||2e3,u.formatNumber=function(a){a=a.toFixed(u.decimals),a+="";var t,n,e,r;if(t=a.split("."),n=t[0],e=t.length>1?u.options.decimal+t[1]:"",r=/(\d+)(\d{3})/,u.options.useGrouping)for(;r.test(n);)n=n.replace(r,"$1"+u.options.separator+"$2");return u.options.prefix+n+e+u.options.suffix},u.easeOutExpo=function(a,t,n,e){return n*(-Math.pow(2,-10*a/e)+1)*1024/1023+t},u.easingFn=u.options.easingFn?u.options.easingFn:u.easeOutExpo,u.formattingFn=u.options.formattingFn?u.options.formattingFn:u.formatNumber,u.version=function(){return"1.8.1"},u.printValue=function(a){var t=u.formattingFn(a);"INPUT"===u.d.tagName?this.d.value=t:"text"===u.d.tagName||"tspan"===u.d.tagName?this.d.textContent=t:this.d.innerHTML=t},u.count=function(a){u.startTime||(u.startTime=a),u.timestamp=a;var t=a-u.startTime;u.remaining=u.duration-t,u.options.useEasing?u.countDown?u.frameVal=u.startVal-u.easingFn(t,0,u.startVal-u.endVal,u.duration):u.frameVal=u.easingFn(t,u.startVal,u.endVal-u.startVal,u.duration):u.countDown?u.frameVal=u.startVal-(u.startVal-u.endVal)*(t/u.duration):u.frameVal=u.startVal+(u.endVal-u.startVal)*(t/u.duration),u.countDown?u.frameVal=u.frameVal<u.endVal?u.endVal:u.frameVal:u.frameVal=u.frameVal>u.endVal?u.endVal:u.frameVal,u.frameVal=Math.round(u.frameVal*u.dec)/u.dec,u.printValue(u.frameVal),t<u.duration?u.rAF=requestAnimationFrame(u.count):u.callback&&u.callback()},u.start=function(a){return u.callback=a,u.rAF=requestAnimationFrame(u.count),!1},u.pauseResume=function(){u.paused?(u.paused=!1,delete u.startTime,u.duration=u.remaining,u.startVal=u.frameVal,requestAnimationFrame(u.count)):(u.paused=!0,cancelAnimationFrame(u.rAF))},u.reset=function(){u.paused=!1,delete u.startTime,u.startVal=t,cancelAnimationFrame(u.rAF),u.printValue(u.startVal)},u.update=function(a){cancelAnimationFrame(u.rAF),u.paused=!1,delete u.startTime,u.startVal=u.frameVal,u.endVal=Number(a),u.countDown=u.startVal>u.endVal,u.rAF=requestAnimationFrame(u.count)},u.printValue(u.startVal)};return e});
+\ No newline at end of file
++!function(a,t){"function"==typeof define&&define.amd?define(t):"object"==typeof exports?module.exports=t(require,exports,module):a.CountUp=t()}(this,function(a,t,n){var e=function(a,t,n,e,r,i){for(var o=0,s=["webkit","moz","ms","o"],m=0;m<s.length&&!window.requestAnimationFrame;++m)window.requestAnimationFrame=window[s[m]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[s[m]+"CancelAnimationFrame"]||window[s[m]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(a,t){var n=(new Date).getTime(),e=Math.max(0,16-(n-o)),r=window.setTimeout(function(){a(n+e)},e);return o=n+e,r}),window.cancelAnimationFrame||(window.cancelAnimationFrame=function(a){clearTimeout(a)});var u=this;if(u.options={useEasing:!0,useGrouping:!0,separator:",",decimal:".",easingFn:null,formattingFn:null,prefix:"",suffix:""},i&&"object"==typeof i)for(var l in u.options)i.hasOwnProperty(l)&&(u.options[l]=i[l]);""===u.options.separator&&(u.options.useGrouping=!1),u.version=function(){return"1.8.2"},u.d="string"==typeof a?document.getElementById(a):a,u.startVal=Number(t),u.endVal=Number(n),u.countDown=u.startVal>u.endVal,u.frameVal=u.startVal,u.decimals=Math.max(0,e||0),u.dec=Math.pow(10,u.decimals),u.duration=1e3*Number(r)||2e3,u.formatNumber=function(a){a=a.toFixed(u.decimals),a+="";var t,n,e,r;if(t=a.split("."),n=t[0],e=t.length>1?u.options.decimal+t[1]:"",r=/(\d+)(\d{3})/,u.options.useGrouping)for(;r.test(n);)n=n.replace(r,"$1"+u.options.separator+"$2");return u.options.prefix+n+e+u.options.suffix},u.easeOutExpo=function(a,t,n,e){return n*(-Math.pow(2,-10*a/e)+1)*1024/1023+t},u.easingFn=u.options.easingFn?u.options.easingFn:u.easeOutExpo,u.formattingFn=u.options.formattingFn?u.options.formattingFn:u.formatNumber,u.printValue=function(a){var t=u.formattingFn(a);"INPUT"===u.d.tagName?this.d.value=t:"text"===u.d.tagName||"tspan"===u.d.tagName?this.d.textContent=t:this.d.innerHTML=t},u.count=function(a){u.startTime||(u.startTime=a),u.timestamp=a;var t=a-u.startTime;u.remaining=u.duration-t,u.options.useEasing?u.countDown?u.frameVal=u.startVal-u.easingFn(t,0,u.startVal-u.endVal,u.duration):u.frameVal=u.easingFn(t,u.startVal,u.endVal-u.startVal,u.duration):u.countDown?u.frameVal=u.startVal-(u.startVal-u.endVal)*(t/u.duration):u.frameVal=u.startVal+(u.endVal-u.startVal)*(t/u.duration),u.countDown?u.frameVal=u.frameVal<u.endVal?u.endVal:u.frameVal:u.frameVal=u.frameVal>u.endVal?u.endVal:u.frameVal,u.frameVal=Math.round(u.frameVal*u.dec)/u.dec,u.printValue(u.frameVal),t<u.duration?u.rAF=requestAnimationFrame(u.count):u.callback&&u.callback()},u.start=function(a){return u.callback=a,u.rAF=requestAnimationFrame(u.count),!1},u.pauseResume=function(){u.paused?(u.paused=!1,delete u.startTime,u.duration=u.remaining,u.startVal=u.frameVal,requestAnimationFrame(u.count)):(u.paused=!0,cancelAnimationFrame(u.rAF))},u.reset=function(){u.paused=!1,delete u.startTime,u.startVal=t,cancelAnimationFrame(u.rAF),u.printValue(u.startVal)},u.update=function(a){cancelAnimationFrame(u.rAF),u.paused=!1,delete u.startTime,u.startVal=u.frameVal,u.endVal=Number(a),u.countDown=u.startVal>u.endVal,u.rAF=requestAnimationFrame(u.count)},u.printValue(u.startVal)};return e});
+\ No newline at end of file
+diff --git a/package.json b/package.json
+index 230332a..dcef089 100644
+--- a/package.json
++++ b/package.json
+@@ -1,8 +1,8 @@
+ {
+   "name": "countup.js",
+   "description": "Animates a numerical value by counting to it",
+-  "version": "1.8.1",
+-  "licenses": "MIT",
++  "version": "1.8.2",
++  "license": "MIT",
+   "main": "./dist/countUp.min.js",
+   "repository": {
+     "type": "git",

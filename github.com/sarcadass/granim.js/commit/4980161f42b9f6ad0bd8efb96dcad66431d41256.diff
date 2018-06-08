@@ -1,0 +1,44 @@
+diff --git a/bower.json b/bower.json
+new file mode 100644
+index 0000000..5db0dbf
+--- /dev/null
++++ b/bower.json
+@@ -0,0 +1,26 @@
++{
++  "name": "granim",
++  "description": "Create fluid and interactive gradients animations with this small js library.",
++  "main": "index.js",
++  "authors": [
++    "Benjamin Blonde",
++    "Pranay Prakash <pranay.gp@gmail.com> (http://pranay.gp)"
++  ],
++  "license": "MIT",
++  "keywords": [
++    "gradient",
++    "animation"
++  ],
++  "homepage": "https://sarcadass.github.io/granim.js/",
++  "moduleType": [
++    "globals",
++    "node"
++  ],
++  "ignore": [
++    "**/.*",
++    "node_modules",
++    "bower_components",
++    "test",
++    "tests"
++  ]
++}
+diff --git a/package.json b/package.json
+index a0dcd83..6a3ddd2 100644
+--- a/package.json
++++ b/package.json
+@@ -21,6 +21,7 @@
+     "animation"
+   ],
+   "author": "Benjamin Blonde",
++  "contributors": ["Pranay Prakash <pranay.gp@gmail.com> (http://pranay.gp)"],
+   "license": "MIT",
+   "devDependencies": {
+     "browserify": "^13.0.1",

@@ -1,0 +1,27 @@
+From eb02f9a3ad6e42969dff25be5992ab074ceaba6b Mon Sep 17 00:00:00 2001
+From: jerriais <jerriais@users.noreply.github.com>
+Date: Mon, 30 Apr 2018 15:37:01 -0400
+Subject: [PATCH] Increasing suffix and prefix label width to 25px
+
+---
+ index.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/index.html b/index.html
+index 66be5e9..002841b 100644
+--- a/index.html
++++ b/index.html
+@@ -89,11 +89,11 @@ <h4 class="inlineLeft noMargin weight300">Options:</h4>
+ 					<label class="inlineLabel">Decimal</label>
+ 				</div>
+ 				<div class="inlineLeft marginRight">
+-					<input type="text" value="" id="prefix" style="width:150px; padding:0 5px;" onkeyup="updateCodeVisualizer()">
++					<input type="text" value="" id="prefix" style="width:25px; padding:0 5px;" onkeyup="updateCodeVisualizer()">
+ 					<label class="inlineLabel">Prefix</label>
+ 				</div>
+ 				<div class="inlineLeft marginRight">
+-					<input type="text" value="" id="suffix" style="width:150px; padding:0 5px;" onkeyup="updateCodeVisualizer()">
++					<input type="text" value="" id="suffix" style="width:25px; padding:0 5px;" onkeyup="updateCodeVisualizer()">
+ 					<label class="inlineLabel">Suffix</label>
+ 				</div>
+ 			</form>

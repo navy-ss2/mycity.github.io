@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sarcadass/granim.js/commits/ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commits/ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sarcadass/granim.js/commits/ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f.atom"/>
+  <title>Recent Commits to granim.js:ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f</title>
+  <updated>2017-11-06T13:36:45Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/ed403a9d2a70936c8f1a28a2cc540f4b4d1cbd6f"/>
+    <title>
+        Add Image and Blending Modes features
+    </title>
+    <updated>2017-11-06T13:36:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Image and Blending Modes features&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b1951959061f3404408561d39dc83ae6d353205f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/b1951959061f3404408561d39dc83ae6d353205f"/>
+    <title>
+        to v1.0.6
+    </title>
+    <updated>2016-10-02T17:52:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;to v1.0.6&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/657f5dcaddfb6fe26507604109312003a2b11bec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/657f5dcaddfb6fe26507604109312003a2b11bec"/>
+    <title>
+        Add CHANGELOG.md
+    </title>
+    <updated>2016-10-02T17:52:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add CHANGELOG.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/418e675c4d2f82f5f54f5149dd19a293c85b9aa3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/418e675c4d2f82f5f54f5149dd19a293c85b9aa3"/>
+    <title>
+        Minor Fixes
+    </title>
+    <updated>2016-10-02T17:52:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Minor Fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66b6f111715651f9b1b65137280056f587d70ad8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/66b6f111715651f9b1b65137280056f587d70ad8"/>
+    <title>
+        Fix #23
+    </title>
+    <updated>2016-10-02T17:51:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #23&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/acbb0895caee53b54ec326f53edbd9336ad7608d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/acbb0895caee53b54ec326f53edbd9336ad7608d"/>
+    <title>
+        Create getElement function
+    </title>
+    <updated>2016-10-02T17:50:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create getElement function&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/809156059aee5a6917cf0524ccaf1938994cc6ef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/809156059aee5a6917cf0524ccaf1938994cc6ef"/>
+    <title>
+        Delete deprecated  files
+    </title>
+    <updated>2016-09-27T19:23:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete deprecated  files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e171d5f58f054d23eb20d7fe64833ae2215206c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/8e171d5f58f054d23eb20d7fe64833ae2215206c"/>
+    <title>
+        Add animation and methods tests
+    </title>
+    <updated>2016-09-27T19:16:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add animation and methods tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/199c3d9c4b0f76da4356660d1b8de996f02826af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/199c3d9c4b0f76da4356660d1b8de996f02826af"/>
+    <title>
+        Merge branch &#39;bower-support&#39;
+    </title>
+    <updated>2016-09-21T14:38:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;bower-support&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4980161f42b9f6ad0bd8efb96dcad66431d41256</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/4980161f42b9f6ad0bd8efb96dcad66431d41256"/>
+    <title>
+        Add bower.json
+    </title>
+    <updated>2016-09-21T14:38:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b43a5681950041b112301ce78f2da4986f708cd5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/b43a5681950041b112301ce78f2da4986f708cd5"/>
+    <title>
+        Apply corrections to the .pug file #19
+    </title>
+    <updated>2016-09-20T13:59:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Apply corrections to the .pug file #19&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/672e9e01ba01c8c5a36365562f4a51b418ddf262</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/672e9e01ba01c8c5a36365562f4a51b418ddf262"/>
+    <title>
+        Merge pull request #20 from M-arcus/patch-2
+    </title>
+    <updated>2016-09-20T13:21:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20 from M-arcus/patch-2
+
+Fix for #19: Example &amp;quot;Gradients with an image mask&amp;quot;: HTML code is wrong&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6f378d566e799db5e3064ac8ba048647e7eb3e66</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/6f378d566e799db5e3064ac8ba048647e7eb3e66"/>
+    <title>
+        Fix wrong id and class for image-mask example
+    </title>
+    <updated>2016-09-20T13:03:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25648755?s=30&amp;v=4"/>
+    <author>
+      <name>M-arcus</name>
+      <uri>https://github.com/M-arcus</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix wrong id and class for image-mask example&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6cc73ffb0c87d0d8c7aef8722aea17282fbbedb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/d6cc73ffb0c87d0d8c7aef8722aea17282fbbedb"/>
+    <title>
+        add &#39;karma-spec-reporter&#39; for clear tests logs in terminal
+    </title>
+    <updated>2016-09-19T16:04:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add &amp;#39;karma-spec-reporter&amp;#39; for clear tests logs in terminal&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e976a3704cf879976cf03a350907a6e4d2c2b9eb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/e976a3704cf879976cf03a350907a6e4d2c2b9eb"/>
+    <title>
+        Add gitter badge
+    </title>
+    <updated>2016-09-17T16:46:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add gitter badge&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/acc6eb92c2fda460ade343213c208002cd263e28</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/acc6eb92c2fda460ade343213c208002cd263e28"/>
+    <title>
+        Add error when element is neither string, nor HTMLCanvasElement
+    </title>
+    <updated>2016-09-17T07:38:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add error when element is neither string, nor HTMLCanvasElement&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b48761235734d3ebe4822f399be42f75fe56c8f8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/b48761235734d3ebe4822f399be42f75fe56c8f8"/>
+    <title>
+        Merge PR branch &#39;suhaotian-element-was-dom-node&#39; #12
+    </title>
+    <updated>2016-09-17T07:02:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge PR branch &amp;#39;suhaotian-element-was-dom-node&amp;#39; #12&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9cac96a3286db2edbd811c9345c93d8df52415c9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/9cac96a3286db2edbd811c9345c93d8df52415c9"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/sarcadass/granim.js into …
+    </title>
+    <updated>2016-09-17T07:02:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/sarcadass/granim.js into suhaotian-element-was-dom-node&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c982909df5ea11df5e90b97f84c4cc572a8ee99</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/0c982909df5ea11df5e90b97f84c4cc572a8ee99"/>
+    <title>
+        Fix merge conflicts
+    </title>
+    <updated>2016-09-17T07:01:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1797812?s=30&amp;v=4"/>
+    <author>
+      <name>pranaygp</name>
+      <uri>https://github.com/pranaygp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix merge conflicts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sarcadass/granim.js/commit/9d788e3469acdb343f4f364a9b1dc5c4d0bd4657"/>
+    <title>
+        Fix typo in travis config
+    </title>
+    <updated>2016-09-15T18:32:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2452603?s=30&amp;v=4"/>
+    <author>
+      <name>sarcadass</name>
+      <uri>https://github.com/sarcadass</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo in travis config&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
